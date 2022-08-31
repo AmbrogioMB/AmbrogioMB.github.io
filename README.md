@@ -21,7 +21,7 @@ PhD student in Computational Mathematics and Decision Sciences at Università de
 * ICCOPT / MOPTA 2022 (link [here](https://iccopt2022.lehigh.edu/))
 * YAMC 2022 (link [here](http://www.yamc.it/))
 
-Slides t.b.a. and video referenced in slide 27 t.b.a.
+Slides t.b.a. and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/demo_rec.mp4) referenced in slide 27.
 
 ### Conferences where i presented the work xxx:
 
