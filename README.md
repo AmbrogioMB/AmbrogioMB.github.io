@@ -1,25 +1,27 @@
-# Ambrogio Maria Bernardelli
+# ciao
 
-Position
---
+
+
+## Position
+
 PhD student in Computational Mathematics and Decision Sciences at Università degli Studi di Pavia / Università della Svizzera Italiana
 
 
-Projects
---
+## Projects
+
 * binary neural networks
 * stochastic optimal power flow
 * stochastic scheduling problems
 
 
-Conferences
---
-### Conferences where i presented the work ''Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach'':
+## Conferences
 
-* ICCOPT / MOPTA 2022 [link here](https://iccopt2022.lehigh.edu/)
-* YAMC 2022 [link here](http://www.yamc.it/)
+### Conferences where i presented the work ''*Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach'':
 
-Slides t.b.a.
+* ICCOPT / MOPTA 2022 (link [here](https://iccopt2022.lehigh.edu/))
+* YAMC 2022 (link [here](http://www.yamc.it/))
+
+Slides t.b.a. and video referenced in slide 27 t.b.a.
 
 ### Conferences where i presented the work xxx:
 
@@ -27,16 +29,16 @@ Slides t.b.a.
 * t.b.a.
 
 
-Articles
---
-t.b.a.
+## Articles
+
+* t.b.a.
 
 
-Curriculum Vitae
---
+## Curriculum Vitae
+
 [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
 
 
-Contacts
---
+## Contacts
+
 e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
