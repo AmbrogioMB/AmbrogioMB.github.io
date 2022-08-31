@@ -21,7 +21,7 @@ PhD student in Computational Mathematics and Decision Sciences at Università de
 * ICCOPT / MOPTA 2022 (link [here](https://iccopt2022.lehigh.edu/))
 * YAMC 2022 (link [here](http://www.yamc.it/))
 
-Slides t.b.a. and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/demo_rec.mp4) referenced in slide 27.
+Slides t.b.a. and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/demo_rec.mp4) referenced in slide 27. This work got the second place out of 13 submissions at the 14th AIMMS-MOPTA Optimization Modeling Competition (link [here](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/)).
 
 ### Conferences where i presented the work xxx:
 
