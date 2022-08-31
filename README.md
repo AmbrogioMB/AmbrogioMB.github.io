@@ -16,7 +16,7 @@ PhD student in Computational Mathematics and Decision Sciences at Università de
 
 ## Conferences
 
-### Conferences where i presented the work ''*Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach'':
+### Conferences where i presented the work ''*Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach*'':
 
 * ICCOPT / MOPTA 2022 (link [here](https://iccopt2022.lehigh.edu/))
 * YAMC 2022 (link [here](http://www.yamc.it/))
