@@ -40,10 +40,9 @@ Projects I'm currently working on:
 
 [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
 
-**Bachelor's and Master's Theses**:
+Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf t.b.a.).
 
-* Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf t.b.a.);
-* Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf t.b.a.).
+Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf t.b.a.).
 
 
 ## Contacts
