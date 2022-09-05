@@ -9,12 +9,12 @@
 [Curriculum Vitae](#curriculum_vitae)  
 [Contacts](#contacts) 
 
-
+## Position
 <a name="position"/>
 
 PhD student in Computational Mathematics and Decision Sciences at [Università degli Studi di Pavia](https://web.unipv.it/) / [Università della Svizzera Italiana](https://www.usi.ch/it).
 
-
+## Current Projects
 <a name="current_projects"/>
 
 Projects I'm currently working on:
