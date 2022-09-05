@@ -1,12 +1,18 @@
 # Ambrogio Maria Bernardelli
 
 
-##### Table of Contents  
-[Position](#position)  
+##### Table of Contents
+
+[Position](#position)
+
 [Current Projects](#current_projects)
-[Conferences](#conferences)  
+
+[Conferences](#conferences)
+
 [Articles](#articles)
-[Curriculum Vitae](#curriculum_vitae)  
+
+[Curriculum Vitae](#curriculum_vitae)
+
 [Contacts](#contacts) 
 
 
