@@ -44,6 +44,8 @@ Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https
 
 Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)).
 
+esempio `{ my code }`
+
 
 ## Contacts
 
