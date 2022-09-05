@@ -1,5 +1,3 @@
-# Ambrogio Maria Bernardelli
-
 * auto-gen TOC:
 {:toc}
 
