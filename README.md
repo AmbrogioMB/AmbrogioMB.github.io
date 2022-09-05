@@ -46,12 +46,14 @@ Projects I'm currently working on:
 
 
 <a name="articles"/>
+
 ## Articles
 
 * t.b.a.
 
 
 <a name="curriculum_vitae"/>
+
 ## Curriculum Vitae
 
 [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
@@ -62,6 +64,7 @@ Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pd
 
 
 <a name="contacts"/>
+
 ## Contacts
 
 e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
