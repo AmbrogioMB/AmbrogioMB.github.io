@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme 
 title: [Ambrogio Maria Bernardelli]
 description: [Personal Webpage]
+li.toctree-l3:first-child {
+    display: none;
+}
