@@ -1,4 +1,3 @@
-# Ambrogio Maria Bernardelli
 
 ## Table of Contents
 
