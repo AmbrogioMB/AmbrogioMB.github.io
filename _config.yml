@@ -3,4 +3,3 @@ plugins:
 - jekyll-remote-theme 
 title: [Ambrogio Maria Bernardelli]
 description: [Personal Website]
-markdown: kramdown
