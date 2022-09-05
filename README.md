@@ -1,6 +1,4 @@
-# Ambrogio Maria Bernardelli<!-- omit in toc -->
-
-## Table of content<!-- omit in toc -->
+## Table of contents
 
 * auto-gen TOC:
 {:toc}
