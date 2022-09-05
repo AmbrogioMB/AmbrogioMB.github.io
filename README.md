@@ -1,5 +1,3 @@
-# Ambrogio Maria Bernardelli
-
 ## Table of Contents
 
 * auto-gen TOC:
