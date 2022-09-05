@@ -29,4 +29,8 @@ body {
     color: #F0F0F0;
 }
 
+li.toctree-l3:first-child {
+    display: none;
+}
+
 @import "{{ site.theme }}";
