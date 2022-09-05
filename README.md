@@ -9,13 +9,15 @@
 [Curriculum Vitae](#curriculum_vitae)  
 [Contacts](#contacts) 
 
-## Position
+
 <a name="position"/>
+## Position
 
 PhD student in Computational Mathematics and Decision Sciences at [Università degli Studi di Pavia](https://web.unipv.it/) / [Università della Svizzera Italiana](https://www.usi.ch/it).
 
-## Current Projects
+
 <a name="current_projects"/>
+## Current Projects
 
 Projects I'm currently working on:
 
@@ -25,6 +27,7 @@ Projects I'm currently working on:
 
 
 <a name="conferences"/>
+## Conferences
 
 **Conferences where i presented the work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* :**
 
@@ -40,11 +43,13 @@ Projects I'm currently working on:
 
 
 <a name="articles"/>
+## Articles
 
 * t.b.a.
 
 
 <a name="curriculum_vitae"/>
+## Curriculum Vitae
 
 [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
 
@@ -54,5 +59,6 @@ Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pd
 
 
 <a name="contacts"/>
+## Contacts
 
 e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
