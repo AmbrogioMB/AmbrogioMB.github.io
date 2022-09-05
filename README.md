@@ -1,6 +1,7 @@
 # Ambrogio Maria Bernardelli
 
-* TOC {:toc}
+* auto-gen TOC:
+{:toc}
 
 ## Position
 
