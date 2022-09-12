@@ -36,7 +36,7 @@ Projects I'm currently working on:
 
 
 
-## Articles
+## Papers
 
 * t.b.a.
 
