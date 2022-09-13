@@ -54,7 +54,7 @@ Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pd
 
 ## Contacts and General Informations
 
-ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062).
+ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
 address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, Pavia, Italy.
 
