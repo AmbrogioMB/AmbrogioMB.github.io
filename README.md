@@ -20,7 +20,7 @@ Projects I'm currently working on:
 
 
 
-## Conferences
+## Conferences and Workshops
 
 **Conferences where i presented the work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* :**
 
