@@ -31,7 +31,7 @@ Projects I'm currently working on:
 
 **Conferences where i presented the work *A MILP approach to a structured ensemble Binarized Neural Network* :**
 
-* [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](hhttps://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html).
+* [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html).
 
 Presentation tba.
 
