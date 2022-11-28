@@ -33,7 +33,7 @@ Projects I'm currently working on:
 
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html).
 
-Presentation tba.
+[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/bnn_torino.pdf) I used for the workshop.
 
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
 
@@ -68,4 +68,6 @@ e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
 
 telegram: @Ambrogio
 
-research group site: [tba](https://ambrogiomb.github.io/)
+<!--- research group site: [tba](https://ambrogiomb.github.io/) --->
+
+<!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
