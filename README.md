@@ -57,6 +57,14 @@ Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https
 Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)).
 
 
+## Others
+
+I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to bachelor's and master's students.
+
+<!--- ## Teaching and Tutoring activity --->
+
+
+
 
 ## Contacts and General Informations
 
