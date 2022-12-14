@@ -50,7 +50,9 @@ Projects I'm currently working on:
 
 ## Curriculum Vitae
 
-[CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
+<!--- [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf) --->
+
+
 
 Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi.pdf)).
 
