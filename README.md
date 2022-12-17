@@ -25,7 +25,7 @@ Projects I'm currently working on:
 **Conferences where i presented the work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* :**
 
 * [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/);
-* [YAMC 2022](http://www.yamc.it/) (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s).
+* [YAMC 2022](http://www.yamc.it/) (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)).
 
 [Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/demo_rec.mp4) referenced in slide 27. This work got the second place out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/).
 
@@ -72,7 +72,7 @@ I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebelt
 
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
-address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, Pavia, Italy.
+address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
 
