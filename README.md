@@ -42,9 +42,9 @@ Projects I'm currently working on:
 
 
 
-<!--- ## Papers --->
+## Papers
 
-<!--- * t.b.a. --->
+The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks (arxiv [here](https://arxiv.org/abs/2212.03659))
 
 
 
@@ -52,9 +52,15 @@ Projects I'm currently working on:
 
 <!--- [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf) --->
 
+### High school
 
+cose
+
+### Bachelor's degree
 
 Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi.pdf)).
+
+### master's degree
 
 Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)).
 
