@@ -44,7 +44,7 @@ Projects I'm currently working on:
 
 ## Papers
 
-The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks (arxiv [here](https://arxiv.org/abs/2212.03659))
+[The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).
 
 
 
@@ -52,17 +52,19 @@ The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks (arxiv [he
 
 <!--- [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf) --->
 
-### High school
+**High school**
 
-cose
+From September 2011 to July 2016 I was enrolled at Liceo Scientifico Statale Torquato Taramelli. I obtained my high school diploma on the 11th of July 2016, with the following results: 100 / 100, discussing the essay *I barbari. Saggio sulla mutazione* by Alessandro Baricco.
+During high school, I participated several students competitions, such as the ANISN Natural Science Olympiads (regional phase in 2013, 2014, 2015), the *Gran Premio di Matematica Applicata* (7th place in 2016), and the Italian Mathematical Olympiad (team semifinalist in 2016, team finalist and 35th place in 2015). 
 
-### Bachelor's degree
 
-Bachelor's Thesis: *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi.pdf)).
+**Bachelor's degree**
 
-### master's degree
+From October 2016 to September 2019 I was enrolled in the Bachelor's Degree Course in Mathematics at the University of Pavia. I graduated on the 19th of September 2019 with the following result: 110 / 110 cum laude. On that date, I discussed my Bachelor's Thesis *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi.pdf)), written under the supervision of Professor Alberto Canonaco. 
 
-Master's Thesis: *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)).
+**Master's Degree**
+
+From October 2019 to September 2021 I was enrolled in the Master's Degree Course in Mathematics at the University of Pavia. I graduated on the 23rd of September 2019 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco. 
 
 
 ## Others
