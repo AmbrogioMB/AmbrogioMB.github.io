@@ -80,6 +80,8 @@ I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebelt
 
 ## Contacts and General Informations
 
+research group site: [ComptOpt](https://www.compopt.it/)
+
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
 address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
@@ -87,7 +89,5 @@ address: office A12, Department of Mathematics "Felice Casorati", University of 
 e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
 
 telegram: @Ambrogio
-
-<!--- research group site: [tba](https://ambrogiomb.github.io/) --->
 
 <!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
