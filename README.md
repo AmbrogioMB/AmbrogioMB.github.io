@@ -44,7 +44,9 @@ Projects I'm currently working on:
 
 ## Papers
 
-[The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).
+**Conference proceedings**
+
+[The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (CPAIOR 2022).
 
 
 
