@@ -32,6 +32,7 @@ Projects I'm currently working on:
 **Conferences where i presented the work *A MILP approach to a structured ensemble Binarized Neural Network* :**
 
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html).
+* [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/)(presented by Simone Milanesi).
 
 [Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/bnn_torino.pdf) I used for the workshop.
 
@@ -42,11 +43,11 @@ Projects I'm currently working on:
 
 
 
-## Papers
+<!---## Papers
 
 **Conference proceedings**
 
-CPAIOR 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).
+LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).--->
 
 
 
