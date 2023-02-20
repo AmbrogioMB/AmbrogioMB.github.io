@@ -71,7 +71,7 @@ From October 2016 to September 2019 I was enrolled in the Bachelor's degree Cour
 
 **Master's Degree**
 
-From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. I graduated on the 23rd of September 2019 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco. 
+From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. I graduated on the 23rd of September 2021 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco. 
 
 
 ## Others
