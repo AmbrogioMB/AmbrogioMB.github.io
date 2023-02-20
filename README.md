@@ -36,6 +36,10 @@ Projects I'm currently working on:
 
 [Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/bnn_torino.pdf) I used for the workshop.
 
+**Conferences where i presented the work *A linear approximation for a stochastic optimal power flow problem based on wind energy sources* :**
+
+* [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/).
+
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
 
 <!--- * t.b.a. --->
