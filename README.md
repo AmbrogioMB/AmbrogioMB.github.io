@@ -87,7 +87,7 @@ I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebelt
 
 research group site: [ComptOpt](https://www.compopt.it/)
 
-research group twitter: [ComptOpt](https://twitter.com/comp_opt)
+research group twitter: [@ComptOpt](https://twitter.com/comp_opt)
 
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
