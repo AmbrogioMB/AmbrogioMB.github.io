@@ -91,10 +91,10 @@ research group twitter: [@ComptOpt](https://twitter.com/comp_opt)
 
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
-address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
-
 e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
 
 telegram: @Ambrogio
+
+address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 <!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
