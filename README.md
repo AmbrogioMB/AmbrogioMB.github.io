@@ -74,7 +74,7 @@ From October 2016 to September 2019 I was enrolled in the Bachelor's degree Cour
 From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. I graduated on the 23rd of September 2021 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco. 
 
 
-## Others
+## Seminars, schools, and workshops organization
 
 I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
 
