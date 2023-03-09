@@ -55,7 +55,7 @@ LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Netwo
 
 
 
-## Curriculum Vitae
+## Education
 
 <!--- [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf) --->
 
