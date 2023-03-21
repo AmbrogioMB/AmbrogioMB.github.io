@@ -47,17 +47,15 @@ Projects I'm currently working on:
 
 
 
-<!---## Papers
+Publications
 
 **Conference proceedings**
 
-LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).--->
+LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).
 
-
+<!--- **Journal articles** --->
 
 ## Education
-
-<!--- [CV italian](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf) --->
 
 **High school**
 
@@ -71,7 +69,11 @@ From October 2016 to September 2019 I was enrolled in the Bachelor's degree Cour
 
 **Master's Degree**
 
-From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. During this period, I benefited from a scholarship awarded to me following an evaluation of my qualifications, an oral and a written test, and the achievement of objectives concerning grades in the Master's degree course exams and obtaining my degree within a set timeframe. I graduated on the 23rd of September 2021 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco. 
+From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. During this period, I benefited from a scholarship awarded to me following an evaluation of my qualifications, an oral and a written test, and the achievement of objectives concerning grades in the Master's degree course exams and obtaining my degree within a set timeframe. I graduated on the 23rd of September 2021 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco.
+
+**CV**
+
+[CV english](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
 
 
 ## Seminars, schools, and workshops organization
