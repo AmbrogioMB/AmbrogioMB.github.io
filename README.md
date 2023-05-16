@@ -40,11 +40,18 @@ Projects I'm currently working on:
 
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/).
 
+[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/airo.pdf) I used for the workshop.
+
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
 
 <!--- * t.b.a. --->
 <!--- * t.b.a. --->
 
+## Visiting periods
+
+**TU Delft**
+
+I spent one month from mid-April to mid-May 2023 in [TU Delft](https://www.tudelft.nl/) as a guest of the [STAR Lab](https://starlab.ewi.tudelft.nl/) working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/).
 
 
 ## Publications
@@ -81,6 +88,9 @@ From October 2019 to September 2021 I was enrolled in the Master's degree Course
 I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
 
 <!--- ## Teaching and Tutoring activity --->
+<!--- panno --->
+<!--- gabor --->
+<!--- tutor per algebra e geometria --->
 
 
 
@@ -93,7 +103,9 @@ research group twitter: [@ComptOpt](https://twitter.com/comp_opt)
 
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
-e-mail address: ambrogiomaria.bernardelli01 (at) universitadipavia.it
+e-mail address UniPV: ambrogiomaria.bernardelli01 (at) universitadipavia.it
+
+e-mail address USI: ambrogio.bernardelli (at) usi.ch
 
 telegram: @Ambrogio
 
