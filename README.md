@@ -33,6 +33,7 @@ Projects I'm currently working on:
 
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html).
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi).
+* [LION17 - The 2023 Learning and Intelligent OptimizatioN Conference](https://lion17.org/).
 
 [Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/bnn_torino.pdf) I used for the workshop.
 
