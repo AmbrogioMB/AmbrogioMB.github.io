@@ -7,7 +7,9 @@
 ## Position 
 
 PhD student in Computational Mathematics and Decision Sciences at [Università degli Studi di Pavia](https://web.unipv.it/) / [Università della Svizzera Italiana](https://www.usi.ch/it).
-[back on top](#toc)
+
+<font size="1">[back on top](#toc) </font>
+
 
 
 ## Current Projects
