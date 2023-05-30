@@ -8,7 +8,7 @@
 
 PhD student in Computational Mathematics and Decision Sciences at [Università degli Studi di Pavia](https://web.unipv.it/) / [Università della Svizzera Italiana](https://www.usi.ch/it).
 
-<font size="1">[back on top](#toc) </font>
+
 
 
 
@@ -20,6 +20,7 @@ Projects I'm currently working on:
 * stochastic optimal power flow, in collaboration with [CESI](https://www.cesi.it/);
 * stochastic scheduling problems.
 
+[<font size="2">back on top</font>](#toc)
 
 
 ## Conferences and Workshops
