@@ -8,7 +8,7 @@
 
 PhD student in Computational Mathematics and Decision Sciences at [Università degli Studi di Pavia](https://web.unipv.it/) / [Università della Svizzera Italiana](https://www.usi.ch/it).
 
-
+[<font size="2">back on top</font>](#toc)
 
 
 
@@ -51,11 +51,15 @@ Projects I'm currently working on:
 <!--- * t.b.a. --->
 <!--- * t.b.a. --->
 
+[<font size="2">back on top</font>](#toc)
+
 ## Visiting periods
 
 **TU Delft**
 
 I spent one month from mid-April to mid-May 2023 in [TU Delft](https://www.tudelft.nl/) as a guest of the [STAR Lab](https://starlab.ewi.tudelft.nl/) working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/).
+
+[<font size="2">back on top</font>](#toc)
 
 
 ## Publications
@@ -65,6 +69,8 @@ I spent one month from mid-April to mid-May 2023 in [TU Delft](https://www.tudel
 LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).
 
 <!--- **Journal articles** --->
+
+[<font size="2">back on top</font>](#toc)
 
 ## Education
 
@@ -86,10 +92,14 @@ From October 2019 to September 2021 I was enrolled in the Master's degree Course
 
 [CV english](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
 
+[<font size="2">back on top</font>](#toc)
+
 
 ## Seminars, schools, and workshops organization
 
 I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
+
+[<font size="2">back on top</font>](#toc)
 
 <!--- ## Teaching and Tutoring activity --->
 <!--- panno --->
@@ -116,3 +126,5 @@ telegram: @Ambrogio
 address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 <!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
+
+[<font size="2">back on top</font>](#toc)
