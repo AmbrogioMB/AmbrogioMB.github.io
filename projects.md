@@ -1,4 +1,4 @@
-## Current Projects
+## Current projects
 
 Projects I'm currently working on:
 
