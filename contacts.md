@@ -1,6 +1,6 @@
 ## Contacts and general information
 
-research group site: [ComptOpt](https://www.compopt.it/)
+research group site: [ComptOpt Lab](https://www.compopt.it/)
 
 research group twitter: [@ComptOpt](https://twitter.com/comp_opt)
 
