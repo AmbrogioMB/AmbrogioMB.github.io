@@ -16,7 +16,7 @@ PhD student in Computational Mathematics and Decision Sciences at [Università d
 
 Projects I'm currently working on:
 
-* binary neural networks;
+* few-Bit Neural Networks;
 * stochastic optimal power flow, in collaboration with [CESI](https://www.cesi.it/);
 * stochastic scheduling problems.
 
