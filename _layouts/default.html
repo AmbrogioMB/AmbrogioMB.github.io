@@ -12,52 +12,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
-
-<head>
-<style>
-body {
-    margin: 0;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 25%;
-    background-color: #f1f1f1;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-}
-
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 0 8px 16px;
-    text-decoration: none;
-}
-
-li a.active {
-    background-color: #4CAF50;
-    color: white;
-}
-
-li a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-}
-</style>
-</head>
-<body>
-
-<ul>
-  <li><a class="active" href="tryit.asp-filename=trycss_navbar_vertical_fixed.html#home">Home</a></li>
-  <li><a href="tryit.asp-filename=trycss_navbar_vertical_fixed.html#news">News</a></li>
-  <li><a href="tryit.asp-filename=trycss_navbar_vertical_fixed.html#contact">Contact</a></li>
-  <li><a href="tryit.asp-filename=trycss_navbar_vertical_fixed.html#about">About</a></li>
-</ul>
-
-</body>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     
@@ -75,6 +29,9 @@ li a:hover:not(.active) {
     </header>
 
     <main id="content" class="main-content" role="main">
+      <nav>
+        <ul></ul>
+      </nav>
       {{ content }}
 
       <footer class="site-footer">
