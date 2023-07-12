@@ -31,7 +31,7 @@ Projects I'm currently working on:
 * [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania;
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy.
 
-[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/demo_rec.mp4) referenced in slide 27. This work got the second place out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/).
+[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/demo_rec.mp4) referenced in slide 27. This work got the second place out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/).
 
 **Conferences where I presented the work *A MILP approach to a structured ensemble Binarized Neural Network* :**
 
@@ -39,13 +39,13 @@ Projects I'm currently working on:
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy.
 * [LION17 - The 2023 Learning and Intelligent OptimizatioN Conference](https://lion17.org/), Nice, France.
 
-[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/bnn_torino.pdf) I used for the workshop.
+[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_torino.pdf) I used for the workshop.
 
 **Conferences where I presented the work *A linear approximation for a stochastic optimal power flow problem based on wind energy sources* :**
 
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy.
 
-[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/airo.pdf) I used for the workshop.
+[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/airo.pdf) I used for the workshop.
 
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
 
@@ -84,15 +84,15 @@ During high school, I participated in several students competitions, such as the
 
 **Bachelor's degree**
 
-From October 2016 to September 2019 I was enrolled in the Bachelor's degree Course in Mathematics at the University of Pavia. I graduated on the 19th of September 2019 with the following result: 110 / 110 cum laude. On that date, I discussed my Bachelor's Thesis *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi.pdf)), written under the supervision of Professor Alberto Canonaco. 
+From October 2016 to September 2019 I was enrolled in the Bachelor's degree Course in Mathematics at the University of Pavia. I graduated on the 19th of September 2019 with the following result: 110 / 110 cum laude. On that date, I discussed my Bachelor's Thesis *Rappresentazioni Lineari di Gruppi Finiti* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/tesi.pdf)), written under the supervision of Professor Alberto Canonaco. 
 
 **Master's Degree**
 
-From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. During this period, I benefited from a scholarship awarded to me following an evaluation of my qualifications, an oral and a written test, and the achievement of objectives concerning grades in the Master's degree course exams and obtaining my degree within a set timeframe. I graduated on the 23rd of September 2021 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco.
+From October 2019 to September 2021 I was enrolled in the Master's degree Course in Mathematics at the University of Pavia. During this period, I benefited from a scholarship awarded to me following an evaluation of my qualifications, an oral and a written test, and the achievement of objectives concerning grades in the Master's degree course exams and obtaining my degree within a set timeframe. I graduated on the 23rd of September 2021 with the following result: 110 / 110 cum laude. On that date, I discussed my Master's Thesis *Aspetti Algebrici e Combinatori della Teoria degli Operad* (pdf [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/tesi_m.pdf)), written under the supervision of Professor Alberto Canonaco.
 
 **Curriculum vitae et studiorum**
 
-[CV english](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/curriculum.pdf)
+[CV english](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/curriculum.pdf)
 
 [<font size="2">back on top</font>](#toc)
 
