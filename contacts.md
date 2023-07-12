@@ -15,5 +15,3 @@ telegram: @Ambrogio
 address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 <!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
-
-[<font size="2">back on top</font>](#toc)
