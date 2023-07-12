@@ -109,24 +109,3 @@ I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebelt
 <!--- tutor per algebra e geometria --->
 
 
-
-
-## Contacts and General Informations
-
-research group site: [ComptOpt](https://www.compopt.it/)
-
-research group twitter: [@ComptOpt](https://twitter.com/comp_opt)
-
-ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
-
-e-mail address UniPV: ambrogiomaria.bernardelli01 (at) universitadipavia.it
-
-e-mail address USI: ambrogio.bernardelli (at) usi.ch
-
-telegram: @Ambrogio
-
-address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
-
-<!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
-
-[<font size="2">back on top</font>](#toc)
