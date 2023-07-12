@@ -26,7 +26,6 @@ Projects I'm currently working on:
 ## Conferences and Workshops
 
 **Conferences where I presented the work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* :**
-<a href="./_layouts/page2.html">Contact</a>
 
 
 * [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania;
