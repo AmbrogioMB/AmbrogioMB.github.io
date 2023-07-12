@@ -97,10 +97,6 @@ From October 2019 to September 2021 I was enrolled in the Master's degree Course
 [<font size="2">back on top</font>](#toc)
 
 
-## Seminars, schools, and workshops organization
-
-I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
-
 [<font size="2">back on top</font>](#toc)
 
 <!--- ## Teaching and Tutoring activity --->
