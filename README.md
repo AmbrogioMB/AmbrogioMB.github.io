@@ -5,19 +5,19 @@ PhD student in Computational Mathematics and Decision Sciences at [Università d
 
 ## Sections
 
-*[current projects](/projects.html)
+* [current projects](/projects.html)
 
-*[conferences and workshops](/conferences.html)
+* [conferences and workshops](/conferences.html)
 
-*[visiting periods](/visiting.html)
+* [visiting periods](/visiting.html)
 
-*[publications](/publications.html)
+* [publications](/publications.html)
 
-*[education](/education.html)
+* [education](/education.html)
 
-*[school, seminar, and workshop organization](/organization.html)
+* [school, seminar, and workshop organization](/organization.html)
 
-*[contacts and general informations](/contacts.html)
+* [contacts and general informations](/contacts.html)
 
 
 
