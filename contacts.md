@@ -1,4 +1,4 @@
-## Contacts and General Informations
+## Contacts and general information
 
 research group site: [ComptOpt](https://www.compopt.it/)
 
