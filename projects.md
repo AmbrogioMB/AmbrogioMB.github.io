@@ -1,6 +1,6 @@
 ## Current projects
 
-Projects I'm currently working on:
+Projects I am currently working on:
 
 * few-bit neural networks;
 * stochastic optimal power flow, in collaboration with [CESI](https://www.cesi.it/);
