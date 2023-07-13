@@ -99,3 +99,70 @@
 *Dune*. Directed by	Denis Villeneuve, 2021.
 
 *Dýrið*. Directed by	Valdimar Jóhannsson, 2021.
+
+*El laberinto del fauno*. Directed by	Guillermo del Toro, 2006.
+
+*End of Watch*. Directed by	David Ayer, 2012.
+
+*Equilibrium*. Directed by Kurt Wimmer, 2022.
+
+*Europa Report*. Directed by Sebastián Cordero, 2013.
+
+*Evil Dead Rise*. Directed by	Lee Cronin, 2023.
+
+*Évolution*. Directed by Lucile Hadžihalilović, 2015.
+
+*Ex Machina*. Directed by	Alex Garland, 2014.
+
+*Fargo*. Directed by Joel and Ethan Coen, 1996.
+
+*Finch*. Directed by Miguel Sapochnik, 2021.
+
+*First Man*. Directed by Damien Chazelle, 2018.
+
+*Freaks*. Directed by Adam Stein and Zach Lipovsky, 2018.
+
+*Full Metal Jacket*. Directed by Stanley Kubrick, 1987.
+
+*Glass*. Directed by M. Night Shyamalan, 2019.
+
+*Good Night, and Good Luck*. Directed by George Clooney, 2005.
+
+*Gran Torino*. Directed by Clint Eastwood, 2008.
+
+*Grand Piano*. Directed by Eugenio Mira, 2013.
+
+*Green Book*. Directed by	Peter Farrelly, 2018.
+
+*Hail, Caesar!*. Directed by Joel and Ethan Coen, 2016.
+
+*Hellboy*. Directed by Guillermo del Toro, 2004. 
+
+*Hereditary*. Directed by	Ari Aster, 2018.
+
+*High Life*. Directed by Claire Denis, 2018.
+
+*Hostiles*. Directed by	Scott Cooper, 2017.
+
+*I Am the Pretty Thing That Lives in the House*. Directed by Osgood Perkins, 2016.
+
+*In the Mouth of Madness*. Directed by John Carpenter, 1994.
+
+*In the Valley of Elah*. Directed by Paul Haggis, 2007.
+
+*Inception*. Directed by Christopher Nolan, 2010.
+
+*Interstellar*. Directed by	Christopher Nolan, 2014.
+
+*Joker*. Directed by Todd Phillips, 2019.
+
+*Klaus*. Directed by Sergio Pablos, 2019.
+
+*Knowing*. Directed by Alex Proyas, 2009.
+
+*Kon-Tiki*. Directed by Joachim Rønning and Espen Sandberg, 2012.
+
+*Kubo and the Two Strings*. Directed by	Travis Knight, 2016.
+
+
+
