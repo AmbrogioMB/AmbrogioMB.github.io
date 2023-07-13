@@ -63,3 +63,39 @@
 *Bullet Train*. Directed by David Leitch, 2022.
 
 *Buried*. Directed by Rodrigo Cortés, 2010.
+
+*Candyman*. Directed by Bernard Rose, 1992.
+
+*Capote*. Directed by Bennett Miller, 2005.
+
+*Captain Phillips*. Directed by Paul Greengrass, 2013.
+
+*Changing Lanes*. Directed by Roger Michell, 2002.
+
+*Cloverfield*. Directed by Matt Reeves, 2008.
+
+*Color Out of Space*. Directed by Richard Stanley, 2019.
+
+*Come True*. Directed by Anthony Scott Burns, 2020.
+
+*Contagion*. Directed by Steven Soderbergh, 2011.
+
+*Cop Car*. Directed by Jon Watts, 2015.
+
+*Coraline*. Directed by Henry Selick, 2009.
+
+*Dark Waters*. Directed by Todd Haynes, 2019.
+
+*District 9*. Directed by Neill Blomkamp, 2009.
+
+*Dog Soldiers*. Directed by Neil Marshall, 2002.
+
+*Dogman*. Directed by	Matteo Garrone, 2018.
+
+*Donnie Darko*. Directed by	Richard Kelly, 2001.
+
+*Drive*. Directed by	Nicolas Winding Refn, 2011.
+
+*Dune*. Directed by	Denis Villeneuve, 2021.
+
+*Dýrið*. Directed by	Valdimar Jóhannsson, 2021.
