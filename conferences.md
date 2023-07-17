@@ -1,6 +1,6 @@
 # Conferences and workshops
 
-Conferences and workshops where I presented some of my works (and their variations).
+Presentations I gave for different conferences and workshops.
 
 ### *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* :
 
