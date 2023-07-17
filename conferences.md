@@ -10,7 +10,7 @@ Presentations I gave for different conferences and workshops.
 
 [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/healthcare.pdf) I used in Arenzano and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/demo_rec.mp4) referenced in slide 27.
 
-This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/).
+This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). [Here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/mopta.pdf) the certificate
 
 ### *A MILP approach to a structured ensemble Binarized Neural Network*
 
