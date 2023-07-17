@@ -1,4 +1,4 @@
-## Conferences and workshops
+# Conferences and workshops
 
 ### Conferences where I presented the work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* :
 
