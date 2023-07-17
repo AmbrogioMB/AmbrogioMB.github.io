@@ -1,4 +1,4 @@
-# Education
+# Curriculum Vitae et Studiorum
 
 ### High school
 
