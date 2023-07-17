@@ -6,7 +6,9 @@
 * [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania;
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy.
 
-[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/demo_rec.mp4) referenced in slide 27. This work got the second place out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/).
+[Presentation](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/demo_rec.mp4) referenced in slide 27.
+
+This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/).
 
 **Conferences where I presented the work *A MILP approach to a structured ensemble Binarized Neural Network* :**
 
