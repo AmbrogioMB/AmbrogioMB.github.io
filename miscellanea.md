@@ -1,4 +1,4 @@
-## Miscellanea
+# Miscellanea
 
 Random things.
 
