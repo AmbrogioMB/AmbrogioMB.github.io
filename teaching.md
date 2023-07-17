@@ -1,5 +1,5 @@
-## Teaching activity
+# Teaching activities
 
-**Thesis**
+### Thesis
 
- * *Analisi di architetture per Binarized Neural Networks*, Andrea Panno, Bachelor's Thesis in Bioengineering, co-supervisor.
+*Analisi di architetture per Binarized Neural Networks*, Andrea Panno, Bachelor's Thesis in Bioengineering, co-supervisor.
