@@ -7,7 +7,7 @@
 
 ### Teaching assistant
 
-Linear Algebra for the Bachelor's course in Bioengineering, 2022 / 2023.
+Linear Algebra for the Bachelor's course in Bioengineering, academic year 2022/2023.
 
 
 ### Caffè Beltrami
