@@ -2,7 +2,9 @@
 
 ### Thesis
 
-*Analisi di architetture per Binarized Neural Networks*, Andrea Panno, Bachelor's Thesis in Bioengineering, co-supervisor, 2023.
+*On the exactness of Jabr-like models and distributionally robust stochastic optimal power flow*, Gabor Riccardi, Master's Thesis in Mathematics at University of Pavia, co-supervisor, 2023.
+
+*Analisi di architetture per Binarized Neural Networks*, Andrea Panno, Bachelor's Thesis in Bioengineering at University of Pavia, co-supervisor, 2023.
 
 
 ### Teaching assistant
