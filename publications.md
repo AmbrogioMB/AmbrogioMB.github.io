@@ -2,7 +2,7 @@
 
 ### Conference proceedings
 
-LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://arxiv.org/abs/2212.03659) (2022).
+LION17 2023: [The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
 
 ### Journal articles
 
