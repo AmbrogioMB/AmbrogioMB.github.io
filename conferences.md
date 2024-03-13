@@ -12,7 +12,7 @@ Presentations I gave for different conferences and workshops.
 
 This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). You can find the certificate [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/mopta.pdf).
 
-### *A MILP approach to a structured ensemble Binarized Neural Network*
+### *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network*
 
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy;
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy;
