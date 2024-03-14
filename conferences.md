@@ -44,4 +44,4 @@ I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tud
 
 ### USI
 
-I will spend six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
+I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
