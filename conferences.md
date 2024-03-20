@@ -17,8 +17,9 @@ This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPT
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy;
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy;
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy;
-* [LION17 - The 2023 Learning and Intelligent OptimizatioN Conference](https://lion17.org/), Nice, France;
-* [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
+* [LION17](https://lion17.org/), Nice, France;
+* [EURO 2024](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
+<!--- * [2023 INFORMS Annual Meeting](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
 
 [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf) I used in Nice, where the work got accepted for the conference proceedings.
 
@@ -27,6 +28,11 @@ This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPT
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy.
 
 [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/airo.pdf) I used in Milano.
+
+ <!--- **Conferences where i presented the work *Lower bounds for the Integrality Gap of the Metric Steiner Tree Problem via a novel formulation* :** --->
+
+<!--- * [ISCO 2024]([https://lion17.org/](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html)), Tenerife, Spain; --->
+<!--- * t.b.a. --->
 
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
 
