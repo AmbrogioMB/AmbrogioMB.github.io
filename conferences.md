@@ -18,8 +18,8 @@ This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPT
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy;
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy;
 * [LION17](https://lion17.org/), Nice, France;
-* [EURO 2024](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
-<!--- * [2023 INFORMS Annual Meeting](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
+* [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
+<!--- * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
 
 [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf) I used in Nice, where the work got accepted for the conference proceedings.
 
