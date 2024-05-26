@@ -29,9 +29,11 @@ This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPT
 
 [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/airo.pdf) I used in Milano.
 
- <!--- **Conferences where i presented the work *Lower bounds for the Integrality Gap of the Metric Steiner Tree Problem via a novel formulation* :** --->
+### *Lower bounds for the Integrality Gap of the Metric Steiner Tree Problem via a novel formulation*
 
-<!--- * [ISCO 2024]([https://lion17.org/](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html)), Tenerife, Spain; --->
+* [ISCO 2024]([https://lion17.org/](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html)), San Cristóbal de La Laguna, Spain.
+
+[Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-isco.pdf) I used in San Cristóbal de La Laguna.
 <!--- * t.b.a. --->
 
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
