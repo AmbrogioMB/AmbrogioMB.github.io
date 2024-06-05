@@ -10,7 +10,7 @@ e-mail address USI: ambrogio.bernardelli (at) usi.ch
 
 telegram: @Ambrogio
 
-address: office A12, Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
+address: Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 ### Research group
 
