@@ -2,8 +2,27 @@
 
 Presentations I gave for different conferences and workshops.
 
-### *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach*
 
+### *Lower bounds for the Integrality Gap of the Metric Steiner Tree Problem via a novel formulation*
+
+* [ISCO 2024](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html), San Cristóbal de La Laguna, Spain.
+
+[Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-isco.pdf) I used in San Cristóbal de La Laguna.
+
+
+### *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network*
+
+<!--- * [ISMP 2024](https://ismp2024.gerad.ca/) (presented by Simone Milanesi), Montréal, Canada. --->
+<!--- * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
+* [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
+* [LION17](https://lion17.org/), Nice, France;
+* [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy;
+* [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy;
+* [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy;
+
+[Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf) I used in Nice, where the work got accepted for the conference proceedings.
+
+### *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach*
 
 * [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania;
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy.
@@ -12,16 +31,6 @@ Presentations I gave for different conferences and workshops.
 
 This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). You can find the certificate [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/mopta.pdf).
 
-### *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network*
-
-* [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy;
-* [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy;
-* [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy;
-* [LION17](https://lion17.org/), Nice, France;
-* [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
-<!--- * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
-
-[Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf) I used in Nice, where the work got accepted for the conference proceedings.
 
 ### *A linear approximation for a stochastic optimal power flow problem based on wind energy sources*
 
@@ -29,11 +38,7 @@ This work got the **second place** out of 13 submissions at the [14th AIMMS-MOPT
 
 [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/airo.pdf) I used in Milano.
 
-### *Lower bounds for the Integrality Gap of the Metric Steiner Tree Problem via a novel formulation*
 
-* [ISCO 2024](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html), San Cristóbal de La Laguna, Spain.
-
-[Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-isco.pdf) I used in San Cristóbal de La Laguna.
 <!--- * t.b.a. --->
 
  <!--- **Conferences where i presented the work *t.b.a.* :** --->
