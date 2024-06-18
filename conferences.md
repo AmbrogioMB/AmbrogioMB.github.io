@@ -12,7 +12,7 @@ Conferences and workshops where my works have been presented.
 
 ### 2023
 * [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
-* [LION17](https://lion17.org/), Nice, France. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network* presented here got accepted for the conference proceedings.
+* [LION17](https://lion17.org/), Nice, France. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network* presented here got accepted for the [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/airo.pdf).
