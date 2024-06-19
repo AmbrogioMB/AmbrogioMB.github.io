@@ -6,7 +6,7 @@ Conferences and workshops where my works have been presented.
 <!--- * [IPCO 2024](https://ipco2024.ii.uni.wroc.pl/) Wrocław, Poland. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/ipco-poster.pdf).--->
 <!--- * [ISMP 2024](https://ismp2024.gerad.ca/) (presented by Simone Milanesi), Montréal, Canada. --->
 <!--- * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
-<!--- * [The HEXAGON Workshop on power grids](https://hexagon.deib.polimi.it/workshop/)  Bergamo, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-hexa.pdf).--->
+* [The HEXAGON Workshop on power grids](https://hexagon.deib.polimi.it/workshop/)  Bergamo, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-hexa.pdf).
 * [ISCO 2024](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html), San Cristóbal de La Laguna, Spain. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-isco.pdf).
 
 
