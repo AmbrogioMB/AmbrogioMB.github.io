@@ -3,10 +3,10 @@
 Conferences and workshops where my works have been presented.
 
 ### 2024
-* [IPCO 2024](https://ipco2024.ii.uni.wroc.pl/) Wrocław, Poland. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/ipco-poster.pdf).
+<!--- * [IPCO 2024](https://ipco2024.ii.uni.wroc.pl/), Wrocław, Poland. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/ipco-poster.pdf). --->
 <!--- * [ISMP 2024](https://ismp2024.gerad.ca/) (presented by Simone Milanesi), Montréal, Canada. --->
 <!--- * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark. --->
-* [The HEXAGON Workshop on power grids](https://hexagon.deib.polimi.it/workshop/)  Bergamo, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-hexa.pdf).
+* [The HEXAGON Workshop on power grids](https://hexagon.deib.polimi.it/workshop/), Bergamo, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-hexa.pdf).
 * [ISCO 2024](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html), San Cristóbal de La Laguna, Spain. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bernardelli-isco.pdf).
 
 
@@ -14,7 +14,7 @@ Conferences and workshops where my works have been presented.
 * [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona.
 * [LION17](https://lion17.org/), Nice, France. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network* presented here got accepted for the [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy.
-* [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), (presented by Simone Milanesi), Milano, Italy.
+* [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/) (presented by Simone Milanesi), Milano, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/airo.pdf).
 
 
