@@ -25,7 +25,8 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/demo_rec.mp4) referenced in slide 27.
 
 
-<sup>**†**</sup> invited talks.
+<sup>**†**</sup> invited talk.
+
 
 # Visiting periods
 
@@ -38,3 +39,15 @@ I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tud
 ### USI
 
 I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
+
+
+# As organizer
+
+### Caffè Beltrami
+
+I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
+
+
+### AIRO Young Workshop
+
+Coming soon.
