@@ -1,6 +1,6 @@
 # Conferences and workshops
 
-Conferences and workshops where my works have been presented. <sup>**`I`**</sup> denote invited talks.
+Conferences and workshops where my works have been presented. <sup>**†**</sup> denote invited talks.
 
 ### 2024
 * [IPCO 2024](https://ipco2024.ii.uni.wroc.pl/), Wrocław, Poland. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/ipco-poster.pdf).
