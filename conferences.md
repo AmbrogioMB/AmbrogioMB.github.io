@@ -45,9 +45,9 @@ I spent six months, from September 2023 to February 2024, in [USI](https://www.u
 
 ### Caffè Beltrami
 
-I am a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
+I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
 
 
 ### AIRO Young Workshop
 
-Coming soon.
+I am part of the organizing committee of the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/), that will be held at University of Pavia from the 26th to the 28th of February, 2025.
