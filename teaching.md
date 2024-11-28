@@ -9,6 +9,9 @@ I am open to following students in writing their Bachelor's and Master's Thesis.
 * *Analisi di architetture per Binarized Neural Networks*, Andrea Panno, Bachelor's Thesis in Bioengineering at University of Pavia, co-supervised with Prof. Stefano Gualandi and Simone Milanesi, 2023.
 
 
+You can find a thesis proposal [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis_proposal_steiner.pdf).
+
+
 ### Teaching assistant
 
 Linear Algebra for the Bachelor's course in Bioengineering at University of Pavia, academic year 2022/2023, for a total of 40 hours.
