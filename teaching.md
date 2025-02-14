@@ -1,5 +1,11 @@
 # Teaching activities
 
+### Courses
+
+* 2024 / 2025 : 511180 - Algorithms for Optimization ([LM-16] Finance). Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
+
+
+
 ### Thesis
 
 I am open to following students in writing their Bachelor's and Master's Thesis. Current open projects regard the study of the operation of power systems, in particular the AC Optimal Power Flow problem, and combinatorial problems, focusing in particular on the Steiner Tree problem. The following is a list of theses I recently co-supervised.
