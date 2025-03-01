@@ -1,6 +1,6 @@
 # Position 
 
-Ph.D. student in Computational Mathematics and Decision Sciences at [Università degli Studi di Pavia](https://web.unipv.it/) in a joint program with [Università della Svizzera Italiana](https://www.usi.ch/it), under the supervision of Professor Stefano Gualandi.
+Postdoc in the Department of Mathematics at [Università degli Studi di Pavia](https://web.unipv.it/), under the supervision of Professor Stefano Gualandi.
 
 Here is an almost up-to-date [CV](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/curriculum-full.pdf).
 

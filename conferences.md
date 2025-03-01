@@ -50,4 +50,4 @@ I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebel
 
 ### AIRO Young Workshop
 
-I am part of the organizing committee of the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/), that will be held at University of Pavia from the 26th to the 28th of February, 2025.
+I was part of the organizing committee of the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/), that was held at University of Pavia from the 26th to the 28th of February, 2025.

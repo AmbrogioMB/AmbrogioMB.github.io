@@ -4,7 +4,7 @@
 
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
-e-mail address UniPV: ambrogiomaria.bernardelli01 (at) universitadipavia.it
+e-mail address UniPV: ambrogiomaria.bernardelli (at) unipv.it
 
 telegram: @Ambrogio
 
