@@ -6,8 +6,6 @@ ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
 e-mail address UniPV: ambrogiomaria.bernardelli (at) unipv.it
 
-telegram: @Ambrogio
-
 address: Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 ### Research group
