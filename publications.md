@@ -15,3 +15,12 @@ Bernardelli, A.M., Gualandi, S., Lau, H.C., Milanesi, S. (2023). [The BeMi Stard
 
 Bernardelli, A. M., Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024). [On the integrality gap of the Complete Metric Steiner Tree Problem via a novel formulation](https://arxiv.org/abs/2405.13773). arXiv preprint arXiv:2405.13773.
 
+### Thesis
+
+[Methods for Combinatorial Optimization and Their Applications](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/phd_thesis.pdf). Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia, Department of Mathematics.
+
+[Aspetti Algebrici e Combinatori della Teoria degli Operad](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/tesi_m.pdf) (Algebraic and Combinatorial Aspects of Operad Theory). M.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
+
+[Rappresentazioni Lineari di Gruppi Finiti](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/tesi.pdf) (Linear Representations of Finite Group). B.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
+
+

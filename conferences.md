@@ -32,7 +32,6 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 
 ### TU Delft
 
-
 I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
 
 
@@ -43,11 +42,15 @@ I spent six months, from September 2023 to February 2024, in [USI](https://www.u
 
 # As organizer
 
-### Caffè Beltrami
+### COMPMAT Spring Workshop
 
-I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
-
+I was one of the organizers of the [COMPMAT Spring Workshop 2025](https://sites.google.com/universitadipavia.it/icam-compmat2025/compmat/home-page), that was held at University of Pavia on May 23, 2025.
 
 ### AIRO Young Workshop
 
 I was part of the organizing committee of the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/), that was held at University of Pavia from the 26th to the 28th of February, 2025.
+
+### Caffè Beltrami
+
+I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
+
