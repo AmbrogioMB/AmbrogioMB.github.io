@@ -2,7 +2,7 @@
 
 ### Courses
 
-* 2024 / 2025 : 511180 - Algorithms for Optimization ([LM-16] Finance). Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
+* 2024 / 2025 : 511180 - Algorithms for Optimization ([LM-16] Finance), University of Pavia. Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
 
 
 
