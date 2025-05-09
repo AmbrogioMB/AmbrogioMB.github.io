@@ -8,7 +8,7 @@
 
 ### Thesis
 
-I am open to following students in writing their Bachelor's and Master's Thesis. Current open projects regard the study of the operation of power systems, in particular the AC Optimal Power Flow problem, and combinatorial problems, focusing in particular on the Steiner Tree problem. The following is a list of theses I recently co-supervised.
+I am open to following students in writing their Bachelor's and Master's Thesis. Current open projects regard the study of the operation of power systems, in particular the AC Optimal Power Flow problem, and combinatorial problems, focusing in particular on the Steiner Tree problem. The following is a list of theses I recently supervised.
 
 * *The Cloven Travelling Salesman: a new Approach to the ATSP Integrality Gap Estimation*, Alessandro Sosso, Master's Thesis in Mathematics at University of Pavia, co-supervised with Prof. Stefano Gualandi, 2024.
 * *On the exactness of Jabr-like models and distributionally robust stochastic optimal power flow*, Gabor Riccardi, Master's Thesis in Mathematics at University of Pavia, co-supervised with Prof. Stefano Gualandi, 2023.
