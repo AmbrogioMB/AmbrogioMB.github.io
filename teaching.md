@@ -14,6 +14,9 @@ I am open to following students in writing their Bachelor's and Master's Thesis.
 * *On the exactness of Jabr-like models and distributionally robust stochastic optimal power flow*, Gabor Riccardi, Master's Thesis in Mathematics at University of Pavia, co-supervised with Prof. Stefano Gualandi, 2023.
 * *Analisi di architetture per Binarized Neural Networks*, Andrea Panno, Bachelor's Thesis in Bioengineering at University of Pavia, co-supervised with Prof. Stefano Gualandi and Simone Milanesi, 2023.
 
+Some thesis proposals:
+
+* [*Cost Structure for Vertices of the Complete Metric formulation of the Steiner Tree Problem*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis-steiner.pdf).
 
 
 ### Teaching assistant
