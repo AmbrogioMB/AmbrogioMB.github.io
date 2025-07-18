@@ -1,6 +1,7 @@
 # Publications
 
 
+
 ### Journal articles
 
 Bernardelli, A. M., Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024). [Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281). INFORMS Journal on Computing.
@@ -13,14 +14,13 @@ Bernardelli, A.M., Gualandi, S., Lau, H.C., Milanesi, S. (2023). [The BeMi Stard
 
 ### Preprint
 
-Bernardelli, A. M., Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024). [On the integrality gap of the Complete Metric Steiner Tree Problem via a novel formulation](https://arxiv.org/abs/2405.13773). arXiv preprint arXiv:2405.13773.
+Bernardelli, A. M., Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024). [Lower bounds for the integrality gap of the bi-directed cut formulation of the Steiner Tree Problem](https://arxiv.org/abs/2405.13773). arXiv preprint arXiv:2405.13773.
 
 ### Thesis
 
-[Methods for Combinatorial Optimization and Their Applications](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/phd_thesis.pdf). Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia, Department of Mathematics.
+[Methods for Combinatorial Optimization and Their Applications](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis/phd_thesis.pdf). Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia, Department of Mathematics.
 
-[Aspetti Algebrici e Combinatori della Teoria degli Operad](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/tesi_m.pdf) (Algebraic and Combinatorial Aspects of Operad Theory). M.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
+[Aspetti Algebrici e Combinatori della Teoria degli Operad](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis/tesi_m.pdf) (Algebraic and Combinatorial Aspects of Operad Theory). M.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
 
-[Rappresentazioni Lineari di Gruppi Finiti](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/tesi.pdf) (Linear Representations of Finite Group). B.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
-
+[Rappresentazioni Lineari di Gruppi Finiti](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis/tesi.pdf) (Linear Representations of Finite Group). B.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
 

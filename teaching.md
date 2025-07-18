@@ -18,8 +18,8 @@ I am open to following students in writing their Bachelor's and Master's Thesis.
 
 Some thesis proposals:
 
-* [*Cost Structure for Vertices of the Complete Metric Formulation of the Steiner Tree Problem*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis-steiner.pdf).
-* [*Coloring Semilattices*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis-semilattices.pdf).
+* [*Cost Structure for Vertices of the Complete Metric Formulation of the Steiner Tree Problem*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-steiner.pdf).
+* [*Coloring Semilattices*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-semilattices.pdf).
 
 
 
