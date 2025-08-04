@@ -20,6 +20,7 @@ Some thesis proposals:
 
 * [*Cost Structure for Vertices of the Complete Metric Formulation of the Steiner Tree Problem*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-steiner.pdf).
 * [*Coloring Semilattices*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-semilattices.pdf).
+* [*Generalizing Conway's Game of Life on Graphs*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-gameoflife.pdf).
 
 
 
