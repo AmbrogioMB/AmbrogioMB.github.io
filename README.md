@@ -4,6 +4,8 @@ Postdoc in the Department of Mathematics ''Felice Casorati'' at [Università deg
 
 Here is an almost up-to-date [CV](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf).
 
+---
+
 # Current projects
 
 Projects I am currently working on:
