@@ -3,7 +3,7 @@
 Conferences and workshops where my works have been presented.
 
 ### 2025
-* [The HEXAGON Workshop 2025](https://hexagon2025.services.ding.unisannio.it/), Benevento, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-hexagon.pdf).
+* [The HEXAGON Workshop 2025](https://hexagon2025.services.ding.unisannio.it/), Benevento, Italy<sup>**†**</sup>. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-hexagon.pdf).
 * [ODS 2025](https://www.airoconference.it/ods2025/), Milan, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-ods.pdf).
 
 
@@ -30,7 +30,7 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/22-healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/demo_rec.mp4) referenced in slide 27.
 
 
-<sup>**†**</sup> invited talk.
+<sup>**†**</sup> invited talk
 
 ---
 
