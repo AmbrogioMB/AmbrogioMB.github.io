@@ -11,6 +11,4 @@ Here is an almost up-to-date [CV](https://raw.githubusercontent.com/AmbrogioMB/A
 Projects I am currently working on:
 
 * integrality gap problems;
-* few-bit neural networks;
-* stochastic optimal power flow;
-* stochastic scheduling problems.
+* stochastic optimal bidding in energy markets.
