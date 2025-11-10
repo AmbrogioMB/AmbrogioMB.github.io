@@ -14,6 +14,8 @@ Bernardelli, A.M., Gualandi, S., Lau, H.C., Milanesi, S. (2023). [The BeMi Stard
 
 ### Preprint
 
+Sosso, A., Bernardelli, A. M., Gualandi, S. (2025). [The Cloven Traveling Salesman: Cycle Covers and the Integrality Gap of Small ATSP Instances](https://arxiv.org/abs/2511.05045). arXiv preprint arXiv:2511.05045.
+
 Bernardelli, A. M., Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024). [Lower bounds for the integrality gap of the bi-directed cut formulation of the Steiner Tree Problem](https://arxiv.org/abs/2405.13773). arXiv preprint arXiv:2405.13773.
 
 ### Thesis
