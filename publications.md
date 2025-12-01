@@ -4,8 +4,8 @@
 
 ### Journal articles
 
-Bernardelli, A. M., Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024).
-[**Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network**](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281).
+Bernardelli, A. M., Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024). \n
+[**Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network**](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281). \n
 INFORMS Journal on Computing (INFORMS J. Comput.).
 
 Bernardelli, A.M., Bonasera, L., Duma, D., Vercesi, E. (2024).
