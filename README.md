@@ -25,6 +25,4 @@ ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
 research group site: [ComptOpt Lab](https://www.compopt.it/)
 
-research group twitter: [@ComptOpt](https://twitter.com/comp_opt)
-
-<!--- research group twitter: [tba](https://ambrogiomb.github.io/) --->
+<!--- research group twitter: [@ComptOpt](https://x.com/comp_opt) --->
