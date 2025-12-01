@@ -15,18 +15,13 @@ Projects I am currently working on:
 
 ---
 
-## Contacts and general information
-
-### Personal
+### Contacts and general information
 
 e-mail address UniPV: ambrogiomaria.bernardelli (at) unipv.it
 
 address: Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
-
-
-### Research group
 
 research group site: [ComptOpt Lab](https://www.compopt.it/)
 
