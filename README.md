@@ -13,8 +13,9 @@ Projects I am currently working on:
 * integrality gap problems;
 * stochastic optimal bidding in energy markets.
 
+---
 
-# Contacts and general information
+## Contacts and general information
 
 ### Personal
 
