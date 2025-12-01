@@ -4,9 +4,9 @@
 
 ### Journal articles
 
-Bernardelli, A. M., Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024). [Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281). INFORMS Journal on Computing.
+Bernardelli, A. M., Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024). [Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281). INFORMS Journal on Computing (INFORMS J. Comput.).
 
-Bernardelli, A.M., Bonasera, L., Duma, D., Vercesi, E. (2024). [Multi-objective stochastic scheduling of inpatient and outpatient surgeries](https://link.springer.com/article/10.1007/s10696-024-09542-0). Flex Serv Manuf J.
+Bernardelli, A.M., Bonasera, L., Duma, D., Vercesi, E. (2024). [Multi-objective stochastic scheduling of inpatient and outpatient surgeries](https://link.springer.com/article/10.1007/s10696-024-09542-0). Flexible Services and Manufacturing Journal (Flex. Serv. Manuf. J.).
 
 ### Conference proceedings
 
