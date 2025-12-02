@@ -34,18 +34,6 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 
 ---
 
-# Visiting periods
-
-### USI
-
-I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
-
-### TU Delft
-
-I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
-
----
-
 # As organizer
 
 ### COMPMAT Spring Workshop
@@ -59,4 +47,17 @@ I was part of the organizing committee of the [9th AIROYoung Workshop](https://m
 ### Caffè Beltrami
 
 I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
+
+---
+
+# Visiting periods
+
+### USI
+
+I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
+
+### TU Delft
+
+I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
+
 
