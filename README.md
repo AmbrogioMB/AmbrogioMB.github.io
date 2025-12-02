@@ -1,6 +1,6 @@
 # Position
 
-Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics ``Felice Casorati'', University of Pavia, supervised by Professor Stefano Gualandi.
+Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "Felice Casorati", [University of Pavia](University of Pavia), supervised by Professor Stefano Gualandi.
 
 Here is my (almost up-to-date) [CV](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf).
 
