@@ -21,6 +21,10 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 ### Preprint
 
 Sosso, A., Bernardelli, A. M., Gualandi, S. (2025).  
+[**Theoretical Perspectives on Jabr-Type Convex Relaxations for AC Optimal Power Flow**](http://arxiv.org/abs/2604.00664).  
+arXiv preprint arXiv:2604.00664.
+
+Sosso, A., Bernardelli, A. M., Gualandi, S. (2025).  
 [**The Cloven Traveling Salesman: Cycle Covers and the Integrality Gap of Small ATSP Instances**](https://arxiv.org/abs/2511.05045).  
 arXiv preprint arXiv:2511.05045.
 
