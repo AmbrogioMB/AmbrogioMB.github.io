@@ -20,7 +20,7 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 
 ### Preprint
 
-Sosso, A., Bernardelli, A. M., Gualandi, S. (2025).  
+Riccardi, G., Bernardelli, A. M., Gualandi, S. (2026).  
 [**Theoretical Perspectives on Jabr-Type Convex Relaxations for AC Optimal Power Flow**](http://arxiv.org/abs/2604.00664).  
 arXiv preprint arXiv:2604.00664.
 
