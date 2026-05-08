@@ -2,6 +2,10 @@
 
 Conferences and workshops where my works have been presented.
 
+### 2026
+* [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova, Italy. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/26-ipco-poster.pdf).
+
+
 ### 2025
 * [The HEXAGON Workshop 2025](https://hexagon2025.services.ding.unisannio.it/), Benevento, Italy<sup>**†**</sup>. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-hexagon.pdf).
 * [ODS 2025](https://www.airoconference.it/ods2025/), Milan, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-ods.pdf).
