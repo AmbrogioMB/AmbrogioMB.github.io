@@ -21,6 +21,7 @@
 
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <button id="theme-toggle" aria-label="Toggle dark mode">☾</button>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">Ambrogio Maria Bernardelli</h1>
@@ -59,18 +60,15 @@
         <span class="site-footer-credits">
           © 2023-<span id="year"></span> Ambrogio Maria Bernardelli. Hosted on GitHub Pages.
         </span>
-        <span class="site-footer-credits">
-          <button id="theme-toggle">Dark mode</button>
-        </span>
         <script>
           document.getElementById("year").textContent = new Date().getFullYear();
           (function() {
             var btn = document.getElementById('theme-toggle');
-            if (localStorage.getItem('theme') === 'dark') btn.textContent = 'Light mode';
+            if (localStorage.getItem('theme') === 'dark') btn.textContent = '☀';
             btn.addEventListener('click', function() {
               var isDark = document.documentElement.classList.toggle('dark');
               localStorage.setItem('theme', isDark ? 'dark' : 'light');
-              btn.textContent = isDark ? 'Light mode' : 'Dark mode';
+              btn.textContent = isDark ? '☀' : '☾';
             });
           })();
         </script>

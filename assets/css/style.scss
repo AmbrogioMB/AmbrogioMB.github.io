@@ -163,23 +163,25 @@ pre {
 
 
 // =====================================================
-// Footer
+// Theme toggle (fixed top-right)
 // =====================================================
 
 #theme-toggle {
+  position: fixed;
+  top: 0.8rem;
+  right: 1rem;
+  z-index: 1000;
   background: none;
   border: none;
   cursor: pointer;
-  font-family: "Ubuntu Mono", monospace;
-  font-size: 0.85rem;
-  padding: 0;
-  color: inherit;
-
-  &::before { content: "[ "; }
-  &::after  { content: " ]"; }
+  font-size: 1.2rem;
+  padding: 0.2rem 0.4rem;
+  color: #F0F0F0;
+  opacity: 0.7;
+  line-height: 1;
 
   &:hover {
-    text-decoration: underline;
+    opacity: 1;
   }
 }
 
@@ -208,15 +210,12 @@ html.dark .site-nav {
   border-bottom-color: #c86200;
 }
 
-html.dark .site-nav a,
-html.dark .site-nav #theme-toggle {
+html.dark .site-nav a {
   color: #e8dfd5;
 }
 
 html.dark .site-nav a:hover,
-html.dark .site-nav a:focus-visible,
-html.dark .site-nav #theme-toggle:hover,
-html.dark .site-nav #theme-toggle:focus-visible {
+html.dark .site-nav a:focus-visible {
   color: #e8722a;
 }
 
