@@ -7,27 +7,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#42032C">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-
-    <!-- OPTIONAL NAV STYLE (can be moved to your style.css) -->
-    <style>
-      .nav {
-        margin-top: 15px;
-        text-align: center;
-      }
-      .nav a {
-        margin: 0 12px;
-        font-weight: bold;
-        text-decoration: none;
-        color: white; /* works on the dark banner background */
-      }
-      .nav a:hover {
-        text-decoration: underline;
-      }
-    </style>
   </head>
 
   <body>
@@ -39,14 +22,6 @@
         {{ page.description | default: site.description | default: site.github.project_tagline }}
       </h2>
 
-      <!-- NEW TOP NAVIGATION -->
-      <nav class="nav">
-        <a href="/">Home</a>
-	<a href="/publications.html">Publications</a>
-        <a href="/conferences.html">Talks & Activities</a>
-        <a href="/teaching.html">Teaching</a>
-      </nav>
-
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -55,6 +30,15 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
+
+    <nav class="site-nav">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/publications.html' | relative_url }}">Publications</a></li>
+        <li><a href="{{ '/conferences.html' | relative_url }}">Talks &amp; Activities</a></li>
+        <li><a href="{{ '/teaching.html' | relative_url }}">Teaching</a></li>
+      </ul>
+    </nav>
 
     <main id="content" class="main-content" role="main">
       {{ content }}

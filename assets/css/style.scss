@@ -25,9 +25,74 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
-
-body{color: #F0F0F0;}
-
-
-
 @import "{{ site.theme }}";
+
+// Flat, compact header (no gradient)
+.page-header {
+  padding: 1.5rem 2rem;
+  background-image: none;
+}
+
+.project-name {
+  font-size: 2rem;
+}
+
+.project-tagline {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+// Retro navigation bar
+.site-nav {
+  background: #fdf8f0;
+  border-top: 3px solid #D36B00;
+  border-bottom: 3px solid #D36B00;
+  padding: 0.45rem 1rem;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9rem;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+  }
+
+  li + li::before {
+    content: " | ";
+    margin: 0 0.25rem;
+    color: #D36B00;
+  }
+
+  a {
+    color: #42032C;
+    text-decoration: none;
+
+    &::before { content: "[ "; }
+    &::after  { content: " ]"; }
+
+    &:hover,
+    &:focus-visible {
+      color: #D35400;
+      text-decoration: underline;
+      outline: none;
+    }
+  }
+}
+
+// Warm page background
+body {
+  background-color: #fdfaf4;
+}
+
+// Classic underlined links in content
+.main-content a {
+  text-decoration: underline;
+}
