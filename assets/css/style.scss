@@ -92,7 +92,7 @@ body {
     margin: 0 0.4rem;
   }
 
-  a, #theme-toggle {
+  a {
     color: #42032C;
     text-decoration: none;
 
@@ -110,15 +110,6 @@ body {
       text-decoration: underline;
       outline: none;
     }
-  }
-
-  #theme-toggle {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-family: "Ubuntu Mono", monospace;
-    font-size: 0.9rem;
-    padding: 0;
   }
 }
 
@@ -172,6 +163,28 @@ pre {
 
 
 // =====================================================
+// Footer
+// =====================================================
+
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 0.85rem;
+  padding: 0;
+  color: inherit;
+
+  &::before { content: "[ "; }
+  &::after  { content: " ]"; }
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+
+// =====================================================
 // Dark mode
 // =====================================================
 
@@ -203,6 +216,7 @@ html.dark {
         color: #e8722a;
       }
     }
+  }
   }
 
   .main-content {

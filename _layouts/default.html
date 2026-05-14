@@ -43,7 +43,6 @@
         <li><a href="{{ '/publications.html' | relative_url }}">Publications</a></li>
         <li><a href="{{ '/conferences.html' | relative_url }}">Talks &amp; Activities</a></li>
         <li><a href="{{ '/teaching.html' | relative_url }}">Teaching</a></li>
-        <li><button id="theme-toggle">Dark mode</button></li>
       </ul>
       <script>
         (function() {
@@ -70,6 +69,9 @@
         {% endif %}
         <span class="site-footer-credits">
           © 2023-<span id="year"></span> Ambrogio Maria Bernardelli. Hosted on GitHub Pages.
+        </span>
+        <span class="site-footer-credits">
+          <button id="theme-toggle">Dark mode</button>
         </span>
         <script>
           document.getElementById("year").textContent = new Date().getFullYear();
