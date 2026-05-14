@@ -67,9 +67,8 @@ $hr-border-color: #eff0f1 !default;
   }
 
   li + li::before {
-    content: " | ";
-    margin: 0 0.25rem;
-    color: #D36B00;
+    content: " ";
+    margin: 0 0.1rem;
   }
 
   a {
@@ -93,12 +92,11 @@ body {
   background-color: #fdfaf4;
 }
 
-// Classic serif body text + monospace headings for retro consistency
+// Classic body text + monospace headings for retro consistency
 .main-content {
-  font-family: Georgia, "Times New Roman", serif;
-
   h1, h2, h3, h4, h5, h6 {
     font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
   }
 }
 
