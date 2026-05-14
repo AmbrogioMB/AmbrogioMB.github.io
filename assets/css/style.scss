@@ -192,49 +192,53 @@ pre {
   color-scheme: light dark;
 }
 
-html.dark {
-  body {
-    background-color: #1c1510;
-    color: #e8dfd5;
-  }
+html.dark body {
+  background-color: #1c1510;
+  color: #e8dfd5;
+}
 
-  .page-header {
-    background-color: #3a0226;
-    background-image: linear-gradient(120deg, #3a0226, #b05500);
-  }
+html.dark .page-header {
+  background-color: #3a0226;
+  background-image: linear-gradient(120deg, #3a0226, #b05500);
+}
 
-  .site-nav {
-    background: #241a14;
-    border-top-color: #c86200;
-    border-bottom-color: #c86200;
+html.dark .site-nav {
+  background: #241a14;
+  border-top-color: #c86200;
+  border-bottom-color: #c86200;
+}
 
-    a, #theme-toggle {
-      color: #e8dfd5;
+html.dark .site-nav a,
+html.dark .site-nav #theme-toggle {
+  color: #e8dfd5;
+}
 
-      &:hover,
-      &:focus-visible {
-        color: #e8722a;
-      }
-    }
-  }
-  }
+html.dark .site-nav a:hover,
+html.dark .site-nav a:focus-visible,
+html.dark .site-nav #theme-toggle:hover,
+html.dark .site-nav #theme-toggle:focus-visible {
+  color: #e8722a;
+}
 
-  .main-content {
-    h1, h2, h3, h4, h5, h6 {
-      color: #e8722a;
-    }
+html.dark .main-content h1,
+html.dark .main-content h2,
+html.dark .main-content h3,
+html.dark .main-content h4,
+html.dark .main-content h5,
+html.dark .main-content h6 {
+  color: #e8722a;
+}
 
-    a {
-      color: #a08fd4;
-    }
-  }
+html.dark .main-content a {
+  color: #a08fd4;
+}
 
-  blockquote {
-    color: #8a9ba1;
-  }
+html.dark blockquote {
+  color: #8a9ba1;
+}
 
-  code, pre {
-    background-color: #2a2220;
-    color: #9bb5bc;
-  }
+html.dark code,
+html.dark pre {
+  background-color: #2a2220;
+  color: #9bb5bc;
 }
