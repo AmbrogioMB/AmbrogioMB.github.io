@@ -27,19 +27,20 @@ $hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
 
-// Flat, compact header (no gradient)
+// Compact header (gradient restored)
 .page-header {
   padding: 1.5rem 2rem;
-  background-image: none;
 }
 
 .project-name {
   font-size: 2rem;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .project-tagline {
   font-size: 0.95rem;
   opacity: 0.85;
+  font-family: "Courier New", Courier, monospace;
 }
 
 // Retro navigation bar
@@ -90,6 +91,15 @@ $hr-border-color: #eff0f1 !default;
 // Warm page background
 body {
   background-color: #fdfaf4;
+}
+
+// Classic serif body text + monospace headings for retro consistency
+.main-content {
+  font-family: Georgia, "Times New Roman", serif;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Courier New", Courier, monospace;
+  }
 }
 
 // Classic underlined links in content
