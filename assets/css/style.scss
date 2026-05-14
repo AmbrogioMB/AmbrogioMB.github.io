@@ -48,14 +48,14 @@ body {
 
 .project-name {
   font-size: 2rem;
-  font-family: Garamond, "Times New Roman", serif;
+  font-family: "Ubuntu Serif", serif;
   font-weight: bold;
 }
 
 .project-tagline {
   font-size: 0.95rem;
   opacity: 0.85;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Ubuntu Mono", monospace;
 }
 
 
@@ -78,7 +78,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
 
-    font-family: "Courier New", Courier, monospace;
+    font-family: "Ubuntu Mono", monospace;
     font-size: 0.9rem;
   }
 
@@ -126,7 +126,7 @@ body {
   h4,
   h5,
   h6 {
-    font-family: Garamond, "Times New Roman", serif;
+    font-family: "Ubuntu Serif", serif;
     font-weight: bold;
     color: $section-headings-color;
   }
@@ -158,5 +158,5 @@ blockquote {
 
 code,
 pre {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Ubuntu Mono", monospace;
 }
