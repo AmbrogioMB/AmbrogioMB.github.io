@@ -160,3 +160,58 @@ code,
 pre {
   font-family: "Ubuntu Mono", monospace;
 }
+
+
+// =====================================================
+// Dark mode
+// =====================================================
+
+:root {
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1c1510;
+    color: #e8dfd5;
+  }
+
+  .page-header {
+    background-color: #42032C;
+    background-image: linear-gradient(120deg, #2a0118, #42032C);
+  }
+
+  .site-nav {
+    background: #241a14;
+    border-top-color: #c86200;
+    border-bottom-color: #c86200;
+
+    a {
+      color: #e8dfd5;
+
+      &:hover,
+      &:focus-visible {
+        color: #e8722a;
+      }
+    }
+  }
+
+  .main-content {
+    h1, h2, h3, h4, h5, h6 {
+      color: #e8722a;
+    }
+
+    a {
+      color: #a08fd4;
+    }
+  }
+
+  blockquote {
+    color: #8a9ba1;
+  }
+
+  code, pre {
+    background-color: #2a2220;
+    color: #9bb5bc;
+  }
+}
