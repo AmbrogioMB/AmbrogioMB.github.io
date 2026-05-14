@@ -21,7 +21,7 @@
 
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-    <button id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+    <button id="theme-toggle" aria-label="Toggle dark mode">◑</button>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">Ambrogio Maria Bernardelli</h1>
@@ -64,11 +64,11 @@
           document.getElementById("year").textContent = new Date().getFullYear();
           (function() {
             var btn = document.getElementById('theme-toggle');
-            if (localStorage.getItem('theme') === 'dark') btn.textContent = '☀';
+            if (localStorage.getItem('theme') === 'dark') btn.textContent = '◐';
             btn.addEventListener('click', function() {
               var isDark = document.documentElement.classList.toggle('dark');
               localStorage.setItem('theme', isDark ? 'dark' : 'light');
-              btn.textContent = isDark ? '☀' : '☾';
+              btn.textContent = isDark ? '◐' : '◑';
             });
           })();
         </script>
