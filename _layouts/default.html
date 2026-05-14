@@ -12,6 +12,11 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <script>
+      if (localStorage.getItem('theme') === 'dark') {
+        document.documentElement.classList.add('dark');
+      }
+    </script>
   </head>
 
   <body>
@@ -39,6 +44,18 @@
         <li><a href="{{ '/conferences.html' | relative_url }}">Talks &amp; Activities</a></li>
         <li><a href="{{ '/teaching.html' | relative_url }}">Teaching</a></li>
       </ul>
+      <button id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+      <script>
+        (function() {
+          var btn = document.getElementById('theme-toggle');
+          if (localStorage.getItem('theme') === 'dark') btn.textContent = '☀';
+          btn.addEventListener('click', function() {
+            var isDark = document.documentElement.classList.toggle('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            btn.textContent = isDark ? '☀' : '🌙';
+          });
+        })();
+      </script>
     </nav>
 
     <main id="content" class="main-content" role="main">
