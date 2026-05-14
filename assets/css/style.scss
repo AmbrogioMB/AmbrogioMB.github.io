@@ -1,4 +1,4 @@
----
+--- 
 ---
 
 // Breakpoints
@@ -27,14 +27,30 @@ $hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
 
-// Compact header (gradient restored)
+
+// =====================================================
+// Base page style
+// =====================================================
+
+body {
+  background-color: #fdfaf4;
+  font-family: Georgia, serif;
+  color: $body-text-color;
+}
+
+
+// =====================================================
+// Header
+// =====================================================
+
 .page-header {
   padding: 1.5rem 2rem;
 }
 
 .project-name {
   font-size: 2rem;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Garamond, "Times New Roman", serif;
+  font-weight: bold;
 }
 
 .project-tagline {
@@ -43,7 +59,11 @@ $hr-border-color: #eff0f1 !default;
   font-family: "Courier New", Courier, monospace;
 }
 
+
+// =====================================================
 // Retro navigation bar
+// =====================================================
+
 .site-nav {
   background: #fdf8f0;
   border-top: 3px solid #D36B00;
@@ -54,9 +74,11 @@ $hr-border-color: #eff0f1 !default;
     list-style: none;
     margin: 0;
     padding: 0;
+
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+
     font-family: "Courier New", Courier, monospace;
     font-size: 0.9rem;
   }
@@ -75,8 +97,13 @@ $hr-border-color: #eff0f1 !default;
     color: #42032C;
     text-decoration: none;
 
-    &::before { content: "[ "; }
-    &::after  { content: " ]"; }
+    &::before {
+      content: "[ ";
+    }
+
+    &::after {
+      content: " ]";
+    }
 
     &:hover,
     &:focus-visible {
@@ -87,20 +114,50 @@ $hr-border-color: #eff0f1 !default;
   }
 }
 
-// Warm page background
-body {
-  background-color: #fdfaf4;
-}
 
-// Classic body text + monospace headings for retro consistency
+// =====================================================
+// Main content
+// =====================================================
+
 .main-content {
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Courier New", Courier, monospace;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: Garamond, "Times New Roman", serif;
     font-weight: bold;
+    color: $section-headings-color;
+  }
+
+  p,
+  li {
+    line-height: 1.7;
+  }
+
+  a {
+    text-decoration: underline;
   }
 }
 
-// Classic underlined links in content
-.main-content a {
-  text-decoration: underline;
+
+// =====================================================
+// Blockquotes
+// =====================================================
+
+blockquote {
+  font-style: italic;
+  color: $blockquote-text-color;
+}
+
+
+// =====================================================
+// Code blocks
+// =====================================================
+
+code,
+pre {
+  font-family: "Courier New", Courier, monospace;
 }
