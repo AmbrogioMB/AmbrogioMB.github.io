@@ -7,7 +7,7 @@
 
 # About
 
-Postdoctoral Fellow in Operations Research and Optimization at the [Department of Mathematics "Felice Casorati"](https://matematica.unipv.it/), [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi.
+Postdoctoral Fellow in Operations Research and Optimization at the [Department of Mathematics "F. Casorati"](https://matematica.unipv.it/), [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi. I am a member of the [ComptOpt Lab](https://www.compopt.it/).
 
 Here is my (almost up-to-date) [CV](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf).
 
@@ -24,14 +24,12 @@ My research interests include integer programming, computational optimization, a
 
 # Contacts
 
-e-mail address UniPV: ambrogiomaria.bernardelli (at) unipv.it
+ambrogiomaria.bernardelli (at) unipv.it
 
-address: Department of Mathematics "F. Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
+[Google Scholar](https://scholar.google.com/citations?user=sRNOuHIAAAAJ)
 
-Google Scholar: [Ambrogio Maria Bernardelli](https://scholar.google.com/citations?user=sRNOuHIAAAAJ)
+[ORCID 0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
-ORCID: [0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
-
-research group site: [ComptOpt Lab](https://www.compopt.it/)
+Department of Mathematics "F. Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 <!--- research group twitter: [@ComptOpt](https://x.com/comp_opt) --->
