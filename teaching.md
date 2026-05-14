@@ -2,7 +2,7 @@
 
 ### Courses
 
-* 2024 / 2025 : 511180 - Algorithms for Optimization (\[LM-16] Finance), University of Pavia. Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
+* 2024 / 2025 : 511180 - Algorithms for Optimization (\[LM-16] Finance), University of Pavia, 22 hours. Co-teaching with Prof. Daniele Boffi. Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
 
 
 
@@ -25,7 +25,8 @@ Some thesis proposals:
 
 
 
-### Teaching assistant
+### Teaching assistant / Tutoring
 
-Linear Algebra for the Bachelor's course in Bioengineering at University of Pavia, academic year 2022/2023, for a total of 40 hours.
+* Geometria e Algebra for the Bachelor's course in Bioengineering (held by Prof. Francesco Bonsante), University of Pavia, academic year 2021/2022, for a total of 40 hours.
+* Tutoring for first-year students of the Bachelor's degree program in Mathematics, University of Pavia, academic year 2021/2022, for a total of 40 hours.
 
