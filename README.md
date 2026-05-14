@@ -1,14 +1,13 @@
 # News
 
-* **May 2025** — *The Cloven Traveling Salesman* accepted at *Optimization Letters*.
-* **Apr 2025** — Poster accepted at [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova.
-* **Mar 2025** — Co-organized the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/) at University of Pavia.
+* May 2026 — *The Cloven Traveling Salesman* accepted at *Optimization Letters*.
+* Apr 2026 — Poster accepted at [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova.
 
 ---
 
 # About
 
-Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "Felice Casorati", [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi.
+Postdoctoral Fellow in Operations Research and Optimization at the [Department of Mathematics "Felice Casorati"](https://matematica.unipv.it/), [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi.
 
 Here is my (almost up-to-date) [CV](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf).
 
@@ -27,7 +26,7 @@ My research interests include integer programming, computational optimization, a
 
 e-mail address UniPV: ambrogiomaria.bernardelli (at) unipv.it
 
-address: Department of Mathematics "Felice Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
+address: Department of Mathematics "F. Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
 
 Google Scholar: [Ambrogio Maria Bernardelli](https://scholar.google.com/citations?user=sRNOuHIAAAAJ)
 
