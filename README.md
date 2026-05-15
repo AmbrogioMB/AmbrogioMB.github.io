@@ -2,14 +2,10 @@ Postdoctoral Fellow in Operations Research and Optimization at the Department of
 
 [Curriculum Vitae](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf)
 
----
-
 # News
 
 * May 2026 — *The Cloven Traveling Salesman* accepted at *Optimization Letters*.
 * Apr 2026 — Poster accepted at [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova.
-
----
 
 # Research
 
@@ -17,8 +13,6 @@ My research interests include (but are not limited to) integer programming, comp
 
 * integrality gap problems;
 * stochastic optimal bidding in energy markets.
-
----
 
 # Contacts
 
