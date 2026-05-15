@@ -1,85 +1,81 @@
-<style>
-.conference-list {
-  display: grid;
-  grid-template-columns: 3.5em 1fr;
-  column-gap: 0.8em;
-  row-gap: 1.2em;
-  align-items: start;
-}
+# Conferences and workshops
 
-.conference-year {
-  color: #999;
-  font-size: 0.9em;
-  line-height: 1.6;
-  padding-top: 0.15em;
-}
+Conferences and workshops where my works have been presented.
 
-.conference-content ul {
-  margin: 0;
-  padding-left: 1.1em;
-}
-
-.conference-content li {
-  margin-bottom: 0.35em;
-}
-
-.conference-note {
-  margin-top: 1em;
-  font-size: 0.9em;
-}
-</style>
-
-<div class="conference-list">
-
-<div class="conference-year">2026</div>
-<div class="conference-content">
-
+<table style="border:none; width:100%;">
+<tr style="border:none;">
+<td style="border:none; padding-right:0.2em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2026</td>
+<td style="border:none;" markdown="1">
 * [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova, Italy. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/26-ipco-poster.pdf).
-
-</div>
-
-<div class="conference-year">2025</div>
-<div class="conference-content">
-
+</td>
+</tr>
+<tr style="border:none;">
+<td style="border:none; padding-right:0.2em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2025</td>
+<td style="border:none;" markdown="1">
 * [The HEXAGON Workshop 2025](https://hexagon2025.services.ding.unisannio.it/), Benevento, Italy<sup>**†**</sup>. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-hexagon.pdf).
 * [ODS 2025](https://www.airoconference.it/ods2025/), Milan, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/25-ods.pdf).
-
-</div>
-
-<div class="conference-year">2024</div>
-<div class="conference-content">
-
+</td>
+</tr>
+<tr style="border:none;">
+<td style="border:none; padding-right:0.2em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2024</td>
+<td style="border:none;" markdown="1">
 * [IPCO 2024](https://ipco2024.ii.uni.wroc.pl/), Wrocław, Poland. [Poster](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/24-ipco-poster.pdf).
 * [ISMP 2024](https://ismp2024.gerad.ca/) (presented by Simone Milanesi), Montréal, Canada<sup>**†**</sup>.
 * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark<sup>**†**</sup>.
 * [The HEXAGON Workshop 2024](https://hexagon.deib.polimi.it/workshop/), Bergamo, Italy<sup>**†**</sup>. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/24-bernardelli-hexa.pdf).
 * [ISCO 2024](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html), San Cristóbal de La Laguna, Spain. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/24-bernardelli-isco.pdf).
-
-</div>
-
-<div class="conference-year">2023</div>
-<div class="conference-content">
-
+</td>
+</tr>
+<tr style="border:none;">
+<td style="border:none; padding-right:0.2em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2023</td>
+<td style="border:none;" markdown="1">
 * [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona<sup>**†**</sup>.
 * [LION17](https://lion17.org/), Nice, France. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/23-bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network* presented here got accepted for the [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/) (presented by Simone Milanesi), Milano, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/23-airo.pdf).
-
-</div>
-
-<div class="conference-year">2022</div>
-<div class="conference-content">
-
+</td>
+</tr>
+<tr style="border:none;">
+<td style="border:none; padding-right:0.2em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2022</td>
+<td style="border:none;" markdown="1">
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy.
-* [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania.  
-  The work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* presented here got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). You can find the certificate [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/22-mopta.pdf).
+* [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania.
+The work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* presented here got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). You can find the certificate [here](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/22-mopta.pdf).
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy. [Slides](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/22-healthcare.pdf) and [video](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/presentations/demo_rec.mp4) referenced in slide 27.
+</td>
+</tr>
+</table>
 
-</div>
 
-</div>
-
-<div class="conference-note">
 <sup>**†**</sup> invited talk
-</div>
+
+---
+
+# As organizer
+
+### COMPMAT Spring Workshop
+
+I was one of the organizers of the [COMPMAT Spring Workshop 2025](https://sites.google.com/universitadipavia.it/icam-compmat2025/compmat/home-page), that was held at University of Pavia on May 23, 2025.
+
+### AIRO Young Workshop
+
+I was part of the organizing committee of the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/), that was held at University of Pavia from the 26th to the 28th of February, 2025.
+
+### Caffè Beltrami
+
+I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
+
+---
+
+# Visiting periods
+
+### USI
+
+I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
+
+### TU Delft
+
+I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
+
+
