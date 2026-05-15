@@ -1,3 +1,9 @@
+Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "F. Casorati", [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi. I am a member of the [ComptOpt Lab](https://www.compopt.it/) research group.
+
+[Curriculum Vitae](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf)
+
+---
+
 # News
 
 * May 2026 — *The Cloven Traveling Salesman* accepted at *Optimization Letters*.
@@ -5,19 +11,9 @@
 
 ---
 
-# About
-
-Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "F. Casorati", [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi.
-
-I am part of the [ComptOpt Lab](https://www.compopt.it/) research group.
-
-Here is my (almost up-to-date) [CV](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf).
-
----
-
 # Research
 
-My research interests include integer programming, computational optimization, and stochastic optimization. I am currently working on:
+My research interests include (but are not limited to) integer programming, computational optimization, and stochastic optimization. I am currently working on:
 
 * integrality gap problems;
 * stochastic optimal bidding in energy markets.
