@@ -50,7 +50,7 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 
 <sup>**†**</sup> invited talk
 
----
+
 
 # As organizer
 
@@ -66,7 +66,7 @@ I was part of the organizing committee of the [9th AIROYoung Workshop](https://m
 
 I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
 
----
+
 
 # Visiting periods
 
