@@ -7,23 +7,23 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #F0F0F0 !default;
-$header-bg-color: #42032C !default;
-$header-bg-color-secondary: #D36B00 !default;
+$header-bg-color: #156b6b !default;
+$header-bg-color-secondary: #7ec8c8 !default;
 
 // Text
-$section-headings-color: #D35400 !default;
-$body-text-color: #3d3530 !default;
-$body-link-color: #7c6aaf !default;
-$blockquote-text-color: #8F9DA3 !default;
+$section-headings-color: #1a8a8a !default;
+$body-text-color: #0e2828 !default;
+$body-link-color: #3a7a6a !default;
+$blockquote-text-color: #6a9090 !default;
 
 // Code
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+$code-bg-color: #e0f0f0 !default;
+$code-text-color: #3a6868 !default;
 
 // Borders
-$border-color: #dce6f0 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
+$border-color: #b8dede !default;
+$table-border-color: #c8e8e8 !default;
+$hr-border-color: #d8eeee !default;
 
 @import "{{ site.theme }}";
 
@@ -33,7 +33,7 @@ $hr-border-color: #eff0f1 !default;
 // =====================================================
 
 body {
-  background-color: #fdfaf4;
+  background-color: #f7fdfd;
   font-family: "Ubuntu", sans-serif;
   color: $body-text-color;
 }
@@ -44,7 +44,7 @@ body {
 
 .page-header {
   padding: 1.5rem 2rem;
-  background-image: linear-gradient(120deg, #42032C, #D36B00);
+  background-image: linear-gradient(120deg, #156b6b, #7ec8c8);
 }
 
 .project-name {
@@ -65,9 +65,9 @@ body {
 // =====================================================
 
 .site-nav {
-  background: #fdf8f0;
-  border-top: 3px solid #D36B00;
-  border-bottom: 3px solid #D36B00;
+  background: #f5fefe;
+  border-top: 3px solid #3aacac;
+  border-bottom: 3px solid #3aacac;
   padding: 0.45rem 1rem;
 
   ul {
@@ -94,7 +94,7 @@ body {
   }
 
   a {
-    color: #42032C;
+    color: #0e4040;
     text-decoration: none;
 
     &::before {
@@ -107,7 +107,7 @@ body {
 
     &:hover,
     &:focus-visible {
-      color: #D35400;
+      color: #1a8a8a;
       text-decoration: underline;
       outline: none;
     }
@@ -177,7 +177,7 @@ pre {
   cursor: pointer;
   font-size: 1.2rem;
   padding: 0.2rem 0.4rem;
-  color: #3d3530;
+  color: #0e4040;
   opacity: 0.75;
   line-height: 1;
 
@@ -196,32 +196,32 @@ pre {
 }
 
 html.dark body {
-  background-color: #1c1510;
-  color: #e8dfd5;
+  background-color: #050e0e;
+  color: #c0e8e8;
 }
 
 html.dark .page-header {
-  background-color: #3a0226;
-  background-image: linear-gradient(120deg, #b05500, #3a0226);
+  background-color: #083838;
+  background-image: linear-gradient(120deg, #083838, #3a9898);
 }
 
 html.dark #theme-toggle {
-  color: #e8722a;
+  color: #7ec8c8;
 }
 
 html.dark .site-nav {
-  background: #241a14;
-  border-top-color: #c86200;
-  border-bottom-color: #c86200;
+  background: #081e1e;
+  border-top-color: #5abcbc;
+  border-bottom-color: #5abcbc;
 }
 
 html.dark .site-nav a {
-  color: #e8dfd5;
+  color: #c0e8e8;
 }
 
 html.dark .site-nav a:hover,
 html.dark .site-nav a:focus-visible {
-  color: #e8722a;
+  color: #7ec8c8;
 }
 
 html.dark .main-content h1,
@@ -230,19 +230,19 @@ html.dark .main-content h3,
 html.dark .main-content h4,
 html.dark .main-content h5,
 html.dark .main-content h6 {
-  color: #e8722a;
+  color: #7ec8c8;
 }
 
 html.dark .main-content a {
-  color: #a08fd4;
+  color: #8adab8;
 }
 
 html.dark blockquote {
-  color: #8a9ba1;
+  color: #6a9898;
 }
 
 html.dark code,
 html.dark pre {
-  background-color: #2a2220;
-  color: #9bb5bc;
+  background-color: #0c1e1e;
+  color: #6ab8b0;
 }
