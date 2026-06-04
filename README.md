@@ -1,6 +1,6 @@
 Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "F. Casorati", [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi. I am a member of the [ComptOpt Lab](https://www.compopt.it/) research group.
 
-[Curriculum Vitae](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/cv.pdf)
+[Curriculum Vitae](https://ambrogiomb.github.io/files/cv.pdf)
 
 
 

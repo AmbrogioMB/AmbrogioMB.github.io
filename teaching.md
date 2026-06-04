@@ -16,10 +16,10 @@ I am open to following students in writing their Bachelor's and Master's Thesis.
 
 Some thesis proposals:
 
-* [*Cost Structure for Vertices of the Complete Metric Formulation of the Steiner Tree Problem*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-steiner.pdf).
-* [*Coloring Semilattices*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-semilattices.pdf).
-* [*Generalizing Conway's Game of Life on Graphs*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-gameoflife.pdf).
-* [*Stochastic Optimal Bidding*](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/proposals/thesis-bidding.pdf).
+* [*Cost Structure for Vertices of the Complete Metric Formulation of the Steiner Tree Problem*](https://ambrogiomb.github.io/files/proposals/thesis-steiner.pdf).
+* [*Coloring Semilattices*](https://ambrogiomb.github.io/files/proposals/thesis-semilattices.pdf).
+* [*Generalizing Conway's Game of Life on Graphs*](https://ambrogiomb.github.io/files/proposals/thesis-gameoflife.pdf).
+* [*Stochastic Optimal Bidding*](https://ambrogiomb.github.io/files/proposals/thesis-bidding.pdf).
 
 
 

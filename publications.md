@@ -36,9 +36,9 @@ arXiv preprint arXiv:2405.13773. Currently under revision at *Discrete Applied M
 
 # Thesis
 
-[Methods for Combinatorial Optimization and Their Applications](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis/phd_thesis.pdf). Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia, Department of Mathematics.
+[Methods for Combinatorial Optimization and Their Applications](https://ambrogiomb.github.io/files/thesis/phd_thesis.pdf). Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia, Department of Mathematics.
 
-[Aspetti Algebrici e Combinatori della Teoria degli Operad](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis/tesi_m.pdf) (Algebraic and Combinatorial Aspects of Operad Theory). M.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
+[Aspetti Algebrici e Combinatori della Teoria degli Operad](https://ambrogiomb.github.io/files/thesis/tesi_m.pdf) (Algebraic and Combinatorial Aspects of Operad Theory). M.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
 
-[Rappresentazioni Lineari di Gruppi Finiti](https://raw.githubusercontent.com/AmbrogioMB/AmbrogioMB.github.io/main/files/thesis/tesi.pdf) (Linear Representations of Finite Group). B.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
+[Rappresentazioni Lineari di Gruppi Finiti](https://ambrogiomb.github.io/files/thesis/tesi.pdf) (Linear Representations of Finite Group). B.Sc. Thesis in Mathematics. University of Pavia, Department of Mathematics.
 
