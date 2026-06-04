@@ -6,7 +6,7 @@ Conferences and workshops where my works have been presented.
 <tr style="border:none;">
 <td style="border:none; padding-right:0.5em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2026</td>
 <td style="border:none;" markdown="1">
-* [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova, Italy. [Poster](https://github.com/AmbrogioMB/AmbrogioMB.github.io/blob/main/files/presentations/26-ipco-poster.pdf).
+* [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova, Italy. [Poster](https://ambrogiomb.github.io/files/presentations/26-ipco-poster.pdf).
 </td>
 </tr>
 <tr style="border:none;">
