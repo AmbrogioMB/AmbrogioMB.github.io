@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Game of Life — Finita / Cilindro / Toro</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f0f0f; color: #d2d2d2; font-family: monospace; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+  #top { padding: 8px 12px; font-size: 13px; color: #888; }
+  #canvas-wrap { position: relative; }
+  canvas { display: block; cursor: crosshair; }
+  #hud {
+    width: 100%; max-width: 800px;
+    background: #1c1c1c; padding: 10px 14px;
+    font-size: 13px; line-height: 1.7;
+    border-top: 1px solid #333;
+  }
+  #hud .status { font-size: 14px; margin-bottom: 4px; }
+  #hud .keys  { color: #888; margin-top: 4px; }
+  #hud span.hi { color: #e0e0e0; }
+  #controls {
+    display: flex; flex-wrap: wrap; gap: 8px;
+    padding: 8px 14px; max-width: 800px; width: 100%;
+    background: #1c1c1c; border-top: 1px solid #2a2a2a;
+  }
+  button {
+    background: #2a2a2a; color: #d2d2d2; border: 1px solid #444;
+    padding: 5px 14px; cursor: pointer; font-family: monospace; font-size: 13px;
+    border-radius: 3px;
+  }
+  button:hover { background: #3a3a3a; }
+  button.active { border-color: #aaa; color: #fff; }
+  select {
+    background: #2a2a2a; color: #d2d2d2; border: 1px solid #444;
+    padding: 5px 8px; font-family: monospace; font-size: 13px;
+    border-radius: 3px; cursor: pointer;
+  }
+  label { font-size: 13px; display: flex; align-items: center; gap: 6px; }
+  input[type=range] { width: 80px; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<div id="top">Conway's Game of Life</div>
+<canvas id="canvas"></canvas>
+
+<div id="hud">
+  <div class="status" id="hud-status"></div>
+  <div id="hud-info"></div>
+  <div class="keys" id="hud-keys">
+    Click: attiva/disattiva &nbsp;|&nbsp; Spazio: pausa/riprendi &nbsp;|&nbsp; →: avanti &nbsp;|&nbsp; ←: indietro
+  </div>
+</div>
+
+<div id="controls">
+  <button id="btn-start">▶ Avvia</button>
+  <button id="btn-pause">⏸ Pausa</button>
+  <button id="btn-step-fwd">→ Passo</button>
+  <button id="btn-step-bwd">← Indietro</button>
+  <button id="btn-random">R Casuale</button>
+  <button id="btn-clear">C Cancella</button>
+  <select id="sel-mode">
+    <option value="finite">Finita (bordi fissi)</option>
+    <option value="cylinder">Cilindro (wrap orizzontale)</option>
+    <option value="torus">Toro (wrap completo)</option>
+  </select>
+  <button id="btn-lines" class="active">S Griglia</button>
+  <button id="btn-coords">N Coord</button>
+  <label>FPS: <span id="fps-val">2</span> <input type="range" id="fps-slider" min="1" max="30" value="2"></label>
+</div>
+
+<script>
+const CELL_SIZE   = 70;
+const GRID_COLS   = 5;
+const GRID_ROWS   = 5;
+
+const BG_COLOR    = '#0f0f0f';
+const CELL_ON     = '#dcdcdc';
+const CELL_OFF    = '#0f0f0f';
+const GRID_LINE   = '#373737';
+const COORD_COL   = '#6e6e6e';
+
+const canvas = document.getElementById('canvas');
+const ctx    = canvas.getContext('2d');
+
+// Canvas size
+const W = GRID_COLS * CELL_SIZE;
+const H = GRID_ROWS * CELL_SIZE;
+canvas.width  = W;
+canvas.height = H;
+
+// State
+let grid       = createGrid();
+let history    = [];
+let generation = 0;
+let mode       = 'finite';
+let running    = false;
+let showLines  = true;
+let showCoords = false;
+let fps        = 2;
+let intervalId = null;
+
+// ---- Grid helpers -------------------------------------------------------
+
+function createGrid() {
+  return Array.from({length: GRID_ROWS}, () => new Uint8Array(GRID_COLS));
+}
+
+function randomGrid(prob = 0.25) {
+  return Array.from({length: GRID_ROWS}, () =>
+    Uint8Array.from({length: GRID_COLS}, () => Math.random() < prob ? 1 : 0)
+  );
+}
+
+function cloneGrid(g) {
+  return g.map(row => row.slice());
+}
+
+function countNeighbors(g, x, y) {
+  let n = 0;
+  for (let dy = -1; dy <= 1; dy++) {
+    for (let dx = -1; dx <= 1; dx++) {
+      if (dx === 0 && dy === 0) continue;
+      let nx = x + dx, ny = y + dy;
+      if (mode === 'torus')    { nx = (nx + GRID_COLS) % GRID_COLS; ny = (ny + GRID_ROWS) % GRID_ROWS; }
+      else if (mode === 'cylinder') { nx = (nx + GRID_COLS) % GRID_COLS; }
+      if (nx >= 0 && nx < GRID_COLS && ny >= 0 && ny < GRID_ROWS)
+        n += g[ny][nx];
+    }
+  }
+  return n;
+}
+
+function stepGrid() {
+  history.push(cloneGrid(grid));
+  if (history.length > 200) history.shift();
+  const next = createGrid();
+  for (let y = 0; y < GRID_ROWS; y++) {
+    for (let x = 0; x < GRID_COLS; x++) {
+      const nb = countNeighbors(grid, x, y);
+      next[y][x] = grid[y][x] ? (nb === 2 || nb === 3 ? 1 : 0) : (nb === 3 ? 1 : 0);
+    }
+  }
+  grid = next;
+  generation++;
+}
+
+function countAlive() {
+  return grid.reduce((s, row) => s + row.reduce((a, v) => a + v, 0), 0);
+}
+
+// ---- Drawing ------------------------------------------------------------
+
+function drawGrid() {
+  ctx.clearRect(0, 0, W, H);
+  for (let y = 0; y < GRID_ROWS; y++) {
+    for (let x = 0; x < GRID_COLS; x++) {
+      ctx.fillStyle = grid[y][x] ? CELL_ON : CELL_OFF;
+      ctx.fillRect(x * CELL_SIZE, y * CELL_SIZE, CELL_SIZE, CELL_SIZE);
+      if (showLines) {
+        ctx.strokeStyle = GRID_LINE;
+        ctx.lineWidth = 1;
+        ctx.strokeRect(x * CELL_SIZE + 0.5, y * CELL_SIZE + 0.5, CELL_SIZE - 1, CELL_SIZE - 1);
+      }
+      if (showCoords) {
+        ctx.fillStyle = COORD_COL;
+        ctx.font = `${Math.max(12, CELL_SIZE / 5)}px monospace`;
+        ctx.fillText(`${y},${x}`, x * CELL_SIZE + 4, y * CELL_SIZE + 16);
+      }
+    }
+  }
+}
+
+function updateHUD() {
+  const statusEl = document.getElementById('hud-status');
+  const infoEl   = document.getElementById('hud-info');
+  const statusTxt = running ? '▶ In esecuzione' : (generation === 0 ? '✏ Disegna la configurazione iniziale' : '⏸ In pausa');
+  statusEl.innerHTML = `Stato: <span class="hi">${statusTxt}</span>  &nbsp;|&nbsp;  Modo: <span class="hi">${document.getElementById('sel-mode').options[document.getElementById('sel-mode').selectedIndex].text}</span>`;
+  infoEl.textContent = `Generazione: ${generation}   |   Celle vive: ${countAlive()} / ${GRID_ROWS * GRID_COLS}   |   FPS: ${fps}`;
+}
+
+function render() {
+  drawGrid();
+  updateHUD();
+}
+
+// ---- Simulation loop ----------------------------------------------------
+
+function startLoop() {
+  if (intervalId) clearInterval(intervalId);
+  intervalId = setInterval(() => {
+    if (running) { stepGrid(); render(); }
+  }, 1000 / fps);
+}
+
+function setRunning(val) {
+  running = val;
+  document.getElementById('btn-start').classList.toggle('active', running);
+  document.getElementById('btn-pause').classList.toggle('active', !running);
+}
+
+// ---- Controls -----------------------------------------------------------
+
+document.getElementById('btn-start').addEventListener('click', () => {
+  setRunning(true); render();
+});
+document.getElementById('btn-pause').addEventListener('click', () => {
+  setRunning(false); render();
+});
+document.getElementById('btn-step-fwd').addEventListener('click', () => {
+  setRunning(false); stepGrid(); render();
+});
+document.getElementById('btn-step-bwd').addEventListener('click', () => {
+  setRunning(false);
+  if (history.length) { grid = history.pop(); generation = Math.max(0, generation - 1); render(); }
+});
+document.getElementById('btn-random').addEventListener('click', () => {
+  setRunning(false); grid = randomGrid(); generation = 0; history = []; render();
+});
+document.getElementById('btn-clear').addEventListener('click', () => {
+  setRunning(false); grid = createGrid(); generation = 0; history = []; render();
+});
+document.getElementById('sel-mode').addEventListener('change', e => {
+  mode = e.target.value; render();
+});
+document.getElementById('btn-lines').addEventListener('click', () => {
+  showLines = !showLines;
+  document.getElementById('btn-lines').classList.toggle('active', showLines);
+  render();
+});
+document.getElementById('btn-coords').addEventListener('click', () => {
+  showCoords = !showCoords;
+  document.getElementById('btn-coords').classList.toggle('active', showCoords);
+  render();
+});
+document.getElementById('fps-slider').addEventListener('input', e => {
+  fps = parseInt(e.target.value);
+  document.getElementById('fps-val').textContent = fps;
+  startLoop();
+});
+
+// ---- Canvas click -------------------------------------------------------
+
+canvas.addEventListener('mousedown', e => {
+  const rect = canvas.getBoundingClientRect();
+  const scaleX = W / rect.width;
+  const scaleY = H / rect.height;
+  const cx = Math.floor((e.clientX - rect.left) * scaleX / CELL_SIZE);
+  const cy = Math.floor((e.clientY - rect.top)  * scaleY / CELL_SIZE);
+  if (cx >= 0 && cx < GRID_COLS && cy >= 0 && cy < GRID_ROWS) {
+    grid[cy][cx] ^= 1;
+    render();
+  }
+});
+
+// ---- Keyboard -----------------------------------------------------------
+
+document.addEventListener('keydown', e => {
+  switch (e.key) {
+    case ' ':        e.preventDefault(); setRunning(!running); render(); break;
+    case 'ArrowRight': setRunning(false); stepGrid(); render(); break;
+    case 'ArrowLeft':
+      setRunning(false);
+      if (history.length) { grid = history.pop(); generation = Math.max(0, generation - 1); render(); }
+      break;
+    case 'r': case 'R': setRunning(false); grid = randomGrid(); generation = 0; history = []; render(); break;
+    case 'c': case 'C': setRunning(false); grid = createGrid(); generation = 0; history = []; render(); break;
+    case 'm': case 'M': {
+      const sel = document.getElementById('sel-mode');
+      sel.selectedIndex = (sel.selectedIndex + 1) % sel.options.length;
+      mode = sel.value; render(); break;
+    }
+    case 's': case 'S':
+      showLines = !showLines;
+      document.getElementById('btn-lines').classList.toggle('active', showLines);
+      render(); break;
+    case 'n': case 'N':
+      showCoords = !showCoords;
+      document.getElementById('btn-coords').classList.toggle('active', showCoords);
+      render(); break;
+    case '+': case '=': {
+      const sl = document.getElementById('fps-slider');
+      fps = Math.min(30, fps + 1); sl.value = fps;
+      document.getElementById('fps-val').textContent = fps;
+      startLoop(); render(); break;
+    }
+    case '-': {
+      const sl = document.getElementById('fps-slider');
+      fps = Math.max(1, fps - 1); sl.value = fps;
+      document.getElementById('fps-val').textContent = fps;
+      startLoop(); render(); break;
+    }
+  }
+});
+
+// ---- Init ---------------------------------------------------------------
+
+startLoop();
+render();
+</script>
+</body>
+</html>
