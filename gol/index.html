@@ -9,9 +9,9 @@
   body { background: #0f0f0f; color: #d2d2d2; font-family: monospace; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
   #top { padding: 8px 12px; font-size: 13px; color: #888; }
   #canvas-wrap { position: relative; }
-  canvas { display: block; cursor: crosshair; }
+  canvas { display: block; cursor: crosshair; max-width: 100vw; }
   #hud {
-    width: 100%; max-width: 800px;
+    width: 100%; max-width: 900px;
     background: #1c1c1c; padding: 10px 14px;
     font-size: 13px; line-height: 1.7;
     border-top: 1px solid #333;
@@ -21,9 +21,10 @@
   #hud span.hi { color: #e0e0e0; }
   #controls {
     display: flex; flex-wrap: wrap; gap: 8px;
-    padding: 8px 14px; max-width: 800px; width: 100%;
+    padding: 8px 14px; max-width: 900px; width: 100%;
     background: #1c1c1c; border-top: 1px solid #2a2a2a;
   }
+  #controls .sep { width: 100%; height: 0; border-top: 1px solid #2a2a2a; margin: 2px 0; }
   button {
     background: #2a2a2a; color: #d2d2d2; border: 1px solid #444;
     padding: 5px 14px; cursor: pointer; font-family: monospace; font-size: 13px;
@@ -31,6 +32,8 @@
   }
   button:hover { background: #3a3a3a; }
   button.active { border-color: #aaa; color: #fff; }
+  button.accent { border-color: #7a9; color: #adc; }
+  button.accent:hover { background: #1a2e20; }
   select {
     background: #2a2a2a; color: #d2d2d2; border: 1px solid #444;
     padding: 5px 8px; font-family: monospace; font-size: 13px;
@@ -38,6 +41,12 @@
   }
   label { font-size: 13px; display: flex; align-items: center; gap: 6px; }
   input[type=range] { width: 80px; cursor: pointer; }
+  input[type=number] {
+    width: 52px; background: #2a2a2a; color: #d2d2d2; border: 1px solid #444;
+    padding: 5px 6px; font-family: monospace; font-size: 13px; border-radius: 3px;
+    text-align: center;
+  }
+  input[type=number]:focus { outline: none; border-color: #888; }
 </style>
 </head>
 <body>
@@ -68,27 +77,23 @@
   <button id="btn-lines" class="active">S Griglia</button>
   <button id="btn-coords">N Coord</button>
   <label>FPS: <span id="fps-val">2</span> <input type="range" id="fps-slider" min="1" max="30" value="2"></label>
+  <div class="sep"></div>
+  <label>Colonne: <input type="number" id="inp-cols" min="2" max="100" value="5"></label>
+  <label>Righe: <input type="number" id="inp-rows" min="2" max="100" value="5"></label>
+  <button id="btn-resize" class="accent">↺ Applica dimensioni</button>
 </div>
 
 <script>
-const CELL_SIZE   = 70;
-const GRID_COLS   = 5;
-const GRID_ROWS   = 5;
-
-const BG_COLOR    = '#0f0f0f';
-const CELL_ON     = '#dcdcdc';
-const CELL_OFF    = '#0f0f0f';
-const GRID_LINE   = '#373737';
-const COORD_COL   = '#6e6e6e';
+const CELL_SIZE_MAX = 70;
+const CELL_SIZE_MIN = 6;
 
 const canvas = document.getElementById('canvas');
 const ctx    = canvas.getContext('2d');
 
-// Canvas size
-const W = GRID_COLS * CELL_SIZE;
-const H = GRID_ROWS * CELL_SIZE;
-canvas.width  = W;
-canvas.height = H;
+// Dynamic grid dimensions
+let gridCols = 5;
+let gridRows = 5;
+let cellSize = CELL_SIZE_MAX;
 
 // State
 let grid       = createGrid();
@@ -101,15 +106,34 @@ let showCoords = false;
 let fps        = 2;
 let intervalId = null;
 
+// ---- Dimension helpers --------------------------------------------------
+
+function computeCellSize(cols, rows) {
+  // Fit within ~90vw width and ~70vh height, capped at CELL_SIZE_MAX
+  const maxW = Math.floor(window.innerWidth  * 0.90);
+  const maxH = Math.floor(window.innerHeight * 0.70);
+  const byW  = Math.floor(maxW / cols);
+  const byH  = Math.floor(maxH / rows);
+  return Math.max(CELL_SIZE_MIN, Math.min(CELL_SIZE_MAX, byW, byH));
+}
+
+function applyDimensions(cols, rows) {
+  gridCols = cols;
+  gridRows = rows;
+  cellSize = computeCellSize(cols, rows);
+  canvas.width  = gridCols * cellSize;
+  canvas.height = gridRows * cellSize;
+}
+
 // ---- Grid helpers -------------------------------------------------------
 
 function createGrid() {
-  return Array.from({length: GRID_ROWS}, () => new Uint8Array(GRID_COLS));
+  return Array.from({length: gridRows}, () => new Uint8Array(gridCols));
 }
 
 function randomGrid(prob = 0.25) {
-  return Array.from({length: GRID_ROWS}, () =>
-    Uint8Array.from({length: GRID_COLS}, () => Math.random() < prob ? 1 : 0)
+  return Array.from({length: gridRows}, () =>
+    Uint8Array.from({length: gridCols}, () => Math.random() < prob ? 1 : 0)
   );
 }
 
@@ -123,9 +147,9 @@ function countNeighbors(g, x, y) {
     for (let dx = -1; dx <= 1; dx++) {
       if (dx === 0 && dy === 0) continue;
       let nx = x + dx, ny = y + dy;
-      if (mode === 'torus')    { nx = (nx + GRID_COLS) % GRID_COLS; ny = (ny + GRID_ROWS) % GRID_ROWS; }
-      else if (mode === 'cylinder') { nx = (nx + GRID_COLS) % GRID_COLS; }
-      if (nx >= 0 && nx < GRID_COLS && ny >= 0 && ny < GRID_ROWS)
+      if (mode === 'torus')         { nx = (nx + gridCols) % gridCols; ny = (ny + gridRows) % gridRows; }
+      else if (mode === 'cylinder') { nx = (nx + gridCols) % gridCols; }
+      if (nx >= 0 && nx < gridCols && ny >= 0 && ny < gridRows)
         n += g[ny][nx];
     }
   }
@@ -136,8 +160,8 @@ function stepGrid() {
   history.push(cloneGrid(grid));
   if (history.length > 200) history.shift();
   const next = createGrid();
-  for (let y = 0; y < GRID_ROWS; y++) {
-    for (let x = 0; x < GRID_COLS; x++) {
+  for (let y = 0; y < gridRows; y++) {
+    for (let x = 0; x < gridCols; x++) {
       const nb = countNeighbors(grid, x, y);
       next[y][x] = grid[y][x] ? (nb === 2 || nb === 3 ? 1 : 0) : (nb === 3 ? 1 : 0);
     }
@@ -153,31 +177,32 @@ function countAlive() {
 // ---- Drawing ------------------------------------------------------------
 
 function drawGrid() {
-  ctx.clearRect(0, 0, W, H);
-  for (let y = 0; y < GRID_ROWS; y++) {
-    for (let x = 0; x < GRID_COLS; x++) {
-      ctx.fillStyle = grid[y][x] ? CELL_ON : CELL_OFF;
-      ctx.fillRect(x * CELL_SIZE, y * CELL_SIZE, CELL_SIZE, CELL_SIZE);
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  for (let y = 0; y < gridRows; y++) {
+    for (let x = 0; x < gridCols; x++) {
+      ctx.fillStyle = grid[y][x] ? '#dcdcdc' : '#0f0f0f';
+      ctx.fillRect(x * cellSize, y * cellSize, cellSize, cellSize);
       if (showLines) {
-        ctx.strokeStyle = GRID_LINE;
+        ctx.strokeStyle = '#373737';
         ctx.lineWidth = 1;
-        ctx.strokeRect(x * CELL_SIZE + 0.5, y * CELL_SIZE + 0.5, CELL_SIZE - 1, CELL_SIZE - 1);
+        ctx.strokeRect(x * cellSize + 0.5, y * cellSize + 0.5, cellSize - 1, cellSize - 1);
       }
-      if (showCoords) {
-        ctx.fillStyle = COORD_COL;
-        ctx.font = `${Math.max(12, CELL_SIZE / 5)}px monospace`;
-        ctx.fillText(`${y},${x}`, x * CELL_SIZE + 4, y * CELL_SIZE + 16);
+      if (showCoords && cellSize >= 20) {
+        ctx.fillStyle = '#6e6e6e';
+        ctx.font = `${Math.max(9, Math.floor(cellSize / 5))}px monospace`;
+        ctx.fillText(`${y},${x}`, x * cellSize + 3, y * cellSize + Math.floor(cellSize / 4) + 3);
       }
     }
   }
 }
 
 function updateHUD() {
-  const statusEl = document.getElementById('hud-status');
-  const infoEl   = document.getElementById('hud-info');
   const statusTxt = running ? '▶ In esecuzione' : (generation === 0 ? '✏ Disegna la configurazione iniziale' : '⏸ In pausa');
-  statusEl.innerHTML = `Stato: <span class="hi">${statusTxt}</span>  &nbsp;|&nbsp;  Modo: <span class="hi">${document.getElementById('sel-mode').options[document.getElementById('sel-mode').selectedIndex].text}</span>`;
-  infoEl.textContent = `Generazione: ${generation}   |   Celle vive: ${countAlive()} / ${GRID_ROWS * GRID_COLS}   |   FPS: ${fps}`;
+  const sel = document.getElementById('sel-mode');
+  document.getElementById('hud-status').innerHTML =
+    `Stato: <span class="hi">${statusTxt}</span>  &nbsp;|&nbsp;  Modo: <span class="hi">${sel.options[sel.selectedIndex].text}</span>`;
+  document.getElementById('hud-info').textContent =
+    `Generazione: ${generation}   |   Celle vive: ${countAlive()} / ${gridRows * gridCols}   |   Griglia: ${gridCols}×${gridRows}   |   FPS: ${fps}`;
 }
 
 function render() {
@@ -200,17 +225,27 @@ function setRunning(val) {
   document.getElementById('btn-pause').classList.toggle('active', !running);
 }
 
+// ---- Resize grid --------------------------------------------------------
+
+function doResize() {
+  const newCols = Math.max(2, Math.min(100, parseInt(document.getElementById('inp-cols').value) || gridCols));
+  const newRows = Math.max(2, Math.min(100, parseInt(document.getElementById('inp-rows').value) || gridRows));
+  setRunning(false);
+  applyDimensions(newCols, newRows);
+  grid = createGrid();
+  history = [];
+  generation = 0;
+  // sync inputs in case of clamping
+  document.getElementById('inp-cols').value = gridCols;
+  document.getElementById('inp-rows').value = gridRows;
+  render();
+}
+
 // ---- Controls -----------------------------------------------------------
 
-document.getElementById('btn-start').addEventListener('click', () => {
-  setRunning(true); render();
-});
-document.getElementById('btn-pause').addEventListener('click', () => {
-  setRunning(false); render();
-});
-document.getElementById('btn-step-fwd').addEventListener('click', () => {
-  setRunning(false); stepGrid(); render();
-});
+document.getElementById('btn-start').addEventListener('click', () => { setRunning(true); render(); });
+document.getElementById('btn-pause').addEventListener('click', () => { setRunning(false); render(); });
+document.getElementById('btn-step-fwd').addEventListener('click', () => { setRunning(false); stepGrid(); render(); });
 document.getElementById('btn-step-bwd').addEventListener('click', () => {
   setRunning(false);
   if (history.length) { grid = history.pop(); generation = Math.max(0, generation - 1); render(); }
@@ -221,9 +256,7 @@ document.getElementById('btn-random').addEventListener('click', () => {
 document.getElementById('btn-clear').addEventListener('click', () => {
   setRunning(false); grid = createGrid(); generation = 0; history = []; render();
 });
-document.getElementById('sel-mode').addEventListener('change', e => {
-  mode = e.target.value; render();
-});
+document.getElementById('sel-mode').addEventListener('change', e => { mode = e.target.value; render(); });
 document.getElementById('btn-lines').addEventListener('click', () => {
   showLines = !showLines;
   document.getElementById('btn-lines').classList.toggle('active', showLines);
@@ -239,16 +272,19 @@ document.getElementById('fps-slider').addEventListener('input', e => {
   document.getElementById('fps-val').textContent = fps;
   startLoop();
 });
+document.getElementById('btn-resize').addEventListener('click', doResize);
+document.getElementById('inp-cols').addEventListener('keydown', e => { if (e.key === 'Enter') doResize(); });
+document.getElementById('inp-rows').addEventListener('keydown', e => { if (e.key === 'Enter') doResize(); });
 
 // ---- Canvas click -------------------------------------------------------
 
 canvas.addEventListener('mousedown', e => {
   const rect = canvas.getBoundingClientRect();
-  const scaleX = W / rect.width;
-  const scaleY = H / rect.height;
-  const cx = Math.floor((e.clientX - rect.left) * scaleX / CELL_SIZE);
-  const cy = Math.floor((e.clientY - rect.top)  * scaleY / CELL_SIZE);
-  if (cx >= 0 && cx < GRID_COLS && cy >= 0 && cy < GRID_ROWS) {
+  const scaleX = canvas.width  / rect.width;
+  const scaleY = canvas.height / rect.height;
+  const cx = Math.floor((e.clientX - rect.left) * scaleX / cellSize);
+  const cy = Math.floor((e.clientY - rect.top)  * scaleY / cellSize);
+  if (cx >= 0 && cx < gridCols && cy >= 0 && cy < gridRows) {
     grid[cy][cx] ^= 1;
     render();
   }
@@ -257,8 +293,9 @@ canvas.addEventListener('mousedown', e => {
 // ---- Keyboard -----------------------------------------------------------
 
 document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
   switch (e.key) {
-    case ' ':        e.preventDefault(); setRunning(!running); render(); break;
+    case ' ':          e.preventDefault(); setRunning(!running); render(); break;
     case 'ArrowRight': setRunning(false); stepGrid(); render(); break;
     case 'ArrowLeft':
       setRunning(false);
@@ -280,14 +317,14 @@ document.addEventListener('keydown', e => {
       document.getElementById('btn-coords').classList.toggle('active', showCoords);
       render(); break;
     case '+': case '=': {
-      const sl = document.getElementById('fps-slider');
-      fps = Math.min(30, fps + 1); sl.value = fps;
+      fps = Math.min(30, fps + 1);
+      document.getElementById('fps-slider').value = fps;
       document.getElementById('fps-val').textContent = fps;
       startLoop(); render(); break;
     }
     case '-': {
-      const sl = document.getElementById('fps-slider');
-      fps = Math.max(1, fps - 1); sl.value = fps;
+      fps = Math.max(1, fps - 1);
+      document.getElementById('fps-slider').value = fps;
       document.getElementById('fps-val').textContent = fps;
       startLoop(); render(); break;
     }
@@ -296,6 +333,7 @@ document.addEventListener('keydown', e => {
 
 // ---- Init ---------------------------------------------------------------
 
+applyDimensions(5, 5);
 startLoop();
 render();
 </script>
