@@ -197,12 +197,12 @@ function drawGrid() {
 }
 
 function updateHUD() {
-  const statusTxt = running ? '▶ In esecuzione' : (generation === 0 ? '✏ Disegna la configurazione iniziale' : '⏸ In pausa');
+  const statusTxt = running ? '▶ Running' : (generation === 0 ? '✏ Draw initial configuration' : '⏸ Paused');
   const sel = document.getElementById('sel-mode');
   document.getElementById('hud-status').innerHTML =
-    `Stato: <span class="hi">${statusTxt}</span>  &nbsp;|&nbsp;  Modo: <span class="hi">${sel.options[sel.selectedIndex].text}</span>`;
+    `Current state: <span class="hi">${statusTxt}</span>  &nbsp;|&nbsp;  Topology: <span class="hi">${sel.options[sel.selectedIndex].text}</span>`;
   document.getElementById('hud-info').textContent =
-    `Generazione: ${generation}   |   Celle vive: ${countAlive()} / ${gridRows * gridCols}   |   Griglia: ${gridCols}×${gridRows}   |   FPS: ${fps}`;
+    `Generation: ${generation}   |   Live cells: ${countAlive()} / ${gridRows * gridCols}   |   Grid: ${gridCols}×${gridRows}   |   FPS: ${fps}`;
 }
 
 function render() {
