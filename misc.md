@@ -14,12 +14,12 @@ t.b.a.
 
 
 
-## Interests
+<!-- ## Interests -->
 
-Books, movies, and other things I’ve enjoyed.
+<!-- Books, movies, and other things I’ve enjoyed. -->
 
-- *Jurassic Park* — Michael Crichton (1990)
-- *Parasite* (2019) — Bong Joon-ho
+<!-- - *Jurassic Park* — Michael Crichton (1990) -->
+<!-- - *Parasite* (2019) — Bong Joon-ho -->
 
 
 
