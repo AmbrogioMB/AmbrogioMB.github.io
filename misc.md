@@ -7,7 +7,12 @@ I have made a Conway's Game of Life [demo](https://ambrogiomb.github.io/gol/) to
 
 
 
-# Collected Things
 
+## Collected Things
 
 t.b.a.
+
+
+
+### Interests
+
