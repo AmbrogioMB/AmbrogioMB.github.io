@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Game of Life — Finita / Cilindro / Toro</title>
+<title>Game of Life — Finite / Cylinder / Torus</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: #0f0f0f; color: #d2d2d2; font-family: monospace; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
@@ -58,29 +58,29 @@
   <div class="status" id="hud-status"></div>
   <div id="hud-info"></div>
   <div class="keys" id="hud-keys">
-    Click: attiva/disattiva &nbsp;|&nbsp; Spazio: pausa/riprendi &nbsp;|&nbsp; →: avanti &nbsp;|&nbsp; ←: indietro
+    Click: toggle cell &nbsp;|&nbsp; Space: pause/resume &nbsp;|&nbsp; →: step forward &nbsp;|&nbsp; ←: step back
   </div>
 </div>
 
 <div id="controls">
-  <button id="btn-start">▶ Avvia</button>
-  <button id="btn-pause">⏸ Pausa</button>
-  <button id="btn-step-fwd">→ Passo</button>
-  <button id="btn-step-bwd">← Indietro</button>
-  <button id="btn-random">R Casuale</button>
-  <button id="btn-clear">C Cancella</button>
+  <button id="btn-start">▶ Start</button>
+  <button id="btn-pause">⏸ Pause</button>
+  <button id="btn-step-fwd">→ Step</button>
+  <button id="btn-step-bwd">← Back</button>
+  <button id="btn-random">R Random</button>
+  <button id="btn-clear">C Clear</button>
   <select id="sel-mode">
-    <option value="finite">Finita (bordi fissi)</option>
-    <option value="cylinder">Cilindro (wrap orizzontale)</option>
-    <option value="torus">Toro (wrap completo)</option>
+    <option value="finite">Finite (fixed edges)</option>
+    <option value="cylinder">Cylinder (horizontal wrap)</option>
+    <option value="torus">Torus (full wrap)</option>
   </select>
-  <button id="btn-lines" class="active">S Griglia</button>
+  <button id="btn-lines" class="active">S Grid</button>
   <button id="btn-coords">N Coord</button>
   <label>FPS: <span id="fps-val">2</span> <input type="range" id="fps-slider" min="1" max="30" value="2"></label>
   <div class="sep"></div>
   <label>Colonne: <input type="number" id="inp-cols" min="2" max="100" value="5"></label>
   <label>Righe: <input type="number" id="inp-rows" min="2" max="100" value="5"></label>
-  <button id="btn-resize" class="accent">↺ Applica dimensioni</button>
+  <button id="btn-resize" class="accent">↺ Apply dimension</button>
 </div>
 
 <script>
