@@ -1,5 +1,9 @@
 # Journal articles
 
+Sosso, A., Bernardelli, A. M., Gualandi, S. (2026).  
+[**The Cloven Traveling Salesman: Cycle Covers and the Integrality Gap of Small ATSP Instances**](https://link.springer.com/article/10.1007/s11590-026-02312-x).  
+Optimization Letters.
+
 Bernardelli, A. M., Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024).  
 [**Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network**](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281).  
 INFORMS Journal on Computing (INFORMS J. Comput.).
@@ -23,10 +27,6 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 Riccardi, G., Bernardelli, A. M., Gualandi, S. (2026).  
 [**Theoretical Perspectives on Jabr-Type Convex Relaxations for AC Optimal Power Flow**](http://arxiv.org/abs/2604.00664).  
 arXiv preprint arXiv:2604.00664. Currently under revision at European Journal of Operational Research.
-
-Sosso, A., Bernardelli, A. M., Gualandi, S. (2025).  
-[**The Cloven Traveling Salesman: Cycle Covers and the Integrality Gap of Small ATSP Instances**](https://arxiv.org/abs/2511.05045).  
-arXiv preprint arXiv:2511.05045. Accepted at *Optimization Letters*, to appear.
 
 Bernardelli, A. M., Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024).  
 [**Lower bounds for the integrality gap of the bi-directed cut formulation of the Steiner Tree Problem**](https://arxiv.org/abs/2405.13773).  
