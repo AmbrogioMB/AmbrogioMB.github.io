@@ -24,9 +24,13 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 
 # Preprints
 
+Sacilotto, A., Bernardelli, A. M., Gualandi, S. (2026).  
+[**Comparative Analysis of Linear Battery Models for Carbon Emission Optimization in Solar Energy Systems**](https://arxiv.org/abs/2606.26648).  
+arXiv preprint arXiv:2606.26648. Currently under revision at *Computers & Operations Research*.
+
 Riccardi, G., Bernardelli, A. M., Gualandi, S. (2026).  
 [**Theoretical Perspectives on Jabr-Type Convex Relaxations for AC Optimal Power Flow**](http://arxiv.org/abs/2604.00664).  
-arXiv preprint arXiv:2604.00664. Currently under revision at European Journal of Operational Research.
+arXiv preprint arXiv:2604.00664. Currently under revision at *European Journal of Operational Research*.
 
 Bernardelli, A. M., Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024).  
 [**Lower bounds for the integrality gap of the bi-directed cut formulation of the Steiner Tree Problem**](https://arxiv.org/abs/2405.13773).  
