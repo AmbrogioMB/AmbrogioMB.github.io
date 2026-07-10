@@ -70,6 +70,10 @@ I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebel
 
 # Visiting periods
 
+### Princeton University
+
+From September to December 2026, I will be a Visiting Postdoctoral Research Associate in the Department of Operations Research & Financial Engineering at Princeton University, visiting Professor Bartolomeo's research group.
+
 ### USI
 
 I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
