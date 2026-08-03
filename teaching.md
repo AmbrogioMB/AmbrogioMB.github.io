@@ -1,10 +1,12 @@
 # Courses
 
-* 2024 / 2025 : 511180 - Algorithms for Optimization (\[LM-16] Finance), University of Pavia, 22 hours. Co-teaching with Prof. Daniele Boffi. Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
+* 2026 / 2027 : 511180 - Algorithms for Optimization (M.Sc. in Finance, LM-16), University of Pavia, 22 hours. Co-teaching with Prof. Davide Duma.
+
+* 2024 / 2025 : 511180 - Algorithms for Optimization (M.Sc. in Finance, LM-16), University of Pavia, 22 hours. Co-teaching with Prof. Daniele Boffi. Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=8901).
 
 
 
-# Thesis
+# Theses
 
 I am open to following students in writing their Bachelor's and Master's Thesis. The following is a list of theses I recently supervised.
 
