@@ -1,4 +1,4 @@
-Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "F. Casorati", [University of Pavia](https://www.unipv.eu/), supervised by Professor Stefano Gualandi. I am a member of the [ComptOpt Lab](https://www.compopt.it/) research group.
+Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "F. Casorati", University of Pavia, supervised by Professor Stefano Gualandi. I am a member of the [ComptOpt Lab](https://www.compopt.it/) research group.
 
 [Curriculum Vitae](https://ambrogiomb.github.io/files/cv.pdf)
 
@@ -28,6 +28,6 @@ ambrogiomaria.bernardelli (at) unipv.it
 
 [ORCID 0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
 
-Department of Mathematics "F. Casorati", University of Pavia, via Ferrata 5, Pavia 27100, Italy.
+[Department of Mathematics "F. Casorati"](https://matematica.unipv.it/), [University of Pavia](https://www.unipv.eu/), via Ferrata 5, Pavia 27100, Italy.
 
 <!--- research group twitter: [@ComptOpt](https://x.com/comp_opt) --->
