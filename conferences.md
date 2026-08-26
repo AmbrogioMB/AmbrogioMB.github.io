@@ -72,7 +72,7 @@ I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebel
 
 ### Princeton University
 
-From September to December 2026, I will be a Visiting Postdoctoral Research Associate in the Department of Operations Research & Financial Engineering at Princeton University, visiting Professor Bartolomeo's research group.
+From September to December 2026, I will be a Visiting Postdoctoral Research Associate in the [Department of Operations Research & Financial Engineering](https://orfe.princeton.edu/) at Princeton University, Princeton, New Jersey, visiting Professor Bartolomeo's research group.
 
 ### USI
 
