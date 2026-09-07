@@ -6,7 +6,7 @@ Postdoctoral Fellow in Operations Research and Optimization at the Department of
 
 # News
 
-* Jul 2026 — I will join the Department of Operations Research & Financial Engineering at Princeton University as a Visiting Postdoctoral Research Associate from September to December 2026.
+* Sept 2026 — I joined the Department of Operations Research & Financial Engineering at Princeton University as a Visiting Postdoctoral Research Associate for a three-month period.
 * May 2026 — *The Cloven Traveling Salesman* accepted at *Optimization Letters*.
 
 
