@@ -1,8 +1,10 @@
+<img src="/files/profile.jpg" alt="Ambrogio Maria Bernardelli" style="float: right; width: 180px; margin: 0 0 10px 20px; border-radius: 8px;">
+
 Postdoctoral Fellow in Operations Research and Optimization at the Department of Mathematics "F. Casorati", University of Pavia, supervised by Professor Stefano Gualandi. I am a member of the [ComptOpt Lab](https://www.compopt.it/) research group.
 
 [Curriculum Vitae](https://ambrogiomb.github.io/files/cv.pdf)
 
-
+<div style="clear: both;"></div>
 
 # News
 
