@@ -2,23 +2,23 @@
 
 Conferences and workshops where my works have been presented.
 
-<table style="border:none; width:100%;">
-<tr style="border:none;">
-<td style="border:none; padding-right:0.5em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2026</td>
-<td style="border:none;" markdown="1">
+<table class="year-table">
+<tr>
+<td class="year">2026</td>
+<td markdown="1">
 * [IPCO 2026](https://events.math.unipd.it/ipco2026/), Padova, Italy. [Poster](https://ambrogiomb.github.io/files/presentations/26-ipco-poster.pdf).
 </td>
 </tr>
-<tr style="border:none;">
-<td style="border:none; padding-right:0.5em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2025</td>
-<td style="border:none;" markdown="1">
+<tr>
+<td class="year">2025</td>
+<td markdown="1">
 * [The HEXAGON Workshop 2025](https://hexagon2025.services.ding.unisannio.it/), Benevento, Italy<sup>**†**</sup>. [Slides](https://ambrogiomb.github.io/files/presentations/25-hexagon.pdf).
 * [ODS 2025](https://www.airoconference.it/ods2025/), Milan, Italy. [Slides](https://ambrogiomb.github.io/files/presentations/25-ods.pdf).
 </td>
 </tr>
-<tr style="border:none;">
-<td style="border:none; padding-right:0.5em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2024</td>
-<td style="border:none;" markdown="1">
+<tr>
+<td class="year">2024</td>
+<td markdown="1">
 * [IPCO 2024](https://ipco2024.ii.uni.wroc.pl/), Wrocław, Poland. [Poster](https://ambrogiomb.github.io/files/presentations/24-ipco-poster.pdf).
 * [ISMP 2024](https://ismp2024.gerad.ca/) (presented by Simone Milanesi), Montréal, Canada<sup>**†**</sup>.
 * [EURO 2024](https://euro2024cph.dk/) (presented by Simone Milanesi), Copenhagen, Denmark<sup>**†**</sup>.
@@ -26,9 +26,9 @@ Conferences and workshops where my works have been presented.
 * [ISCO 2024](https://eventos.ull.es/111018/detail/isco-2024-tenerife-22-24-may-2024.html), San Cristóbal de La Laguna, Spain. [Slides](https://ambrogiomb.github.io/files/presentations/24-bernardelli-isco.pdf).
 </td>
 </tr>
-<tr style="border:none;">
-<td style="border:none; padding-right:0.5em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2023</td>
-<td style="border:none;" markdown="1">
+<tr>
+<td class="year">2023</td>
+<td markdown="1">
 * [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona<sup>**†**</sup>.
 * [LION17](https://lion17.org/), Nice, France. [Slides](https://ambrogiomb.github.io/files/presentations/23-bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network* presented here got accepted for the [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy.
@@ -36,9 +36,9 @@ Conferences and workshops where my works have been presented.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy. [Slides](https://ambrogiomb.github.io/files/presentations/23-airo.pdf).
 </td>
 </tr>
-<tr style="border:none;">
-<td style="border:none; padding-right:0.5em; color:#999; white-space:nowrap; vertical-align:top; font-size:0.9em; width:2em;">2022</td>
-<td style="border:none;" markdown="1">
+<tr>
+<td class="year">2022</td>
+<td markdown="1">
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy.
 * [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania.
 The work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* presented here got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). You can find the certificate [here](https://ambrogiomb.github.io/files/presentations/22-mopta.pdf).

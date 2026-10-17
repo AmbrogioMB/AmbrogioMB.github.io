@@ -13,7 +13,7 @@ $header-bg-color-secondary: #7ec8c8 !default;
 // Text
 $section-headings-color: #1a8a8a !default;
 $body-text-color: #0e2828 !default;
-$body-link-color: #3a7a6a !default;
+$body-link-color: #2f5f98 !default;
 $blockquote-text-color: #6a9090 !default;
 
 // Code
@@ -43,17 +43,19 @@ body {
 // =====================================================
 
 .page-header {
-  padding: 1.5rem 2rem;
+  padding: 1.1rem 2rem;
   background-image: linear-gradient(120deg, #156b6b, #7ec8c8);
 }
 
 .project-name {
   font-size: 2rem;
-  font-family: "Ubuntu Serif", serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: bold;
 }
 
 .project-tagline {
+  margin-top: 0.2rem;
+  margin-bottom: 0;
   font-size: 0.95rem;
   opacity: 0.85;
   font-family: "Ubuntu Mono", monospace;
@@ -127,7 +129,7 @@ body {
   h4,
   h5,
   h6 {
-    font-family: "Ubuntu Serif", serif;
+    font-family: "Ubuntu", sans-serif;
     font-weight: bold;
     color: $section-headings-color;
   }
@@ -160,6 +162,36 @@ blockquote {
 code,
 pre {
   font-family: "Ubuntu Mono", monospace;
+}
+
+
+// =====================================================
+// Year-grouped lists (talks page)
+// =====================================================
+
+.main-content table.year-table {
+  border: none;
+
+  tr,
+  td {
+    border: none;
+  }
+
+  td {
+    vertical-align: top;
+  }
+
+  td.year {
+    width: 2em;
+    padding-right: 0.5em;
+    white-space: nowrap;
+    font-size: 0.9em;
+    color: #999;
+  }
+}
+
+html.dark .main-content table.year-table td.year {
+  color: #6a9898;
 }
 
 
@@ -283,7 +315,7 @@ html.dark .main-content h6 {
 }
 
 html.dark .main-content a {
-  color: #8adab8;
+  color: #8cb8ec;
 }
 
 html.dark .footer-address {
