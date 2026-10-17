@@ -6,14 +6,14 @@ Postdoctoral Fellow in Operations Research and Optimization at the Department of
 
 <div style="clear: both;"></div>
 
-# News
+## News
 
 * Sept 2026 — I joined the Department of Operations Research & Financial Engineering at Princeton University as a Visiting Postdoctoral Research Associate for a three-month period.
 * May 2026 — *The Cloven Traveling Salesman* accepted at *Optimization Letters*.
 
 
 
-# Research
+## Research
 
 My research interests include (but are not limited to) integer programming, computational optimization, and stochastic optimization. I am currently working on:
 

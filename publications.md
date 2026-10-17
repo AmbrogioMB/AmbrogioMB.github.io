@@ -1,4 +1,4 @@
-# Journal articles
+## Journal articles
 
 Sosso, A., **Bernardelli, A. M.**, Gualandi, S. (2026).  
 [The Cloven Traveling Salesman: Cycle Covers and the Integrality Gap of Small ATSP Instances](https://link.springer.com/article/10.1007/s11590-026-02312-x).  
@@ -14,7 +14,7 @@ Flexible Services and Manufacturing Journal (Flex. Serv. Manuf. J.).
 
 
 
-# Conference proceedings
+## Conference proceedings
 
 **Bernardelli, A. M.**, Gualandi, S., Lau, H. C., Milanesi, S. (2023).  
 [The BeMi Stardust: A Structured Ensemble of Binarized Neural Networks](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).  
@@ -22,7 +22,7 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 
 
 
-# Preprints
+## Preprints
 
 Sacilotto, A., **Bernardelli, A. M.**, Gualandi, S. (2026).  
 [Comparative Analysis of Linear Battery Models for Carbon Emission Optimization in Solar Energy Systems](https://arxiv.org/abs/2606.26648).  
@@ -38,7 +38,7 @@ arXiv preprint arXiv:2405.13773. Currently under revision at *Networks*.
 
 
 
-# Theses
+## Theses
 
 [Methods for Combinatorial Optimization and Their Applications](https://ambrogiomb.github.io/files/thesis/phd_thesis.pdf).  
 Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia and Università della Svizzera italiana (joint program), 2025.

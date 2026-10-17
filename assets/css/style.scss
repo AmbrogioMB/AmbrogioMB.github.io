@@ -331,3 +331,16 @@ html.dark pre {
   background-color: #0c1e1e;
   color: #6ab8b0;
 }
+
+// =====================================================
+// Bold entry titles (conferences page)
+// =====================================================
+
+.main-content .entry-title {
+  color: $section-headings-color;
+  margin-bottom: 0.3rem;
+}
+
+html.dark .main-content .entry-title {
+  color: #7ec8c8;
+}

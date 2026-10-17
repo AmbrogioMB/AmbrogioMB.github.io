@@ -1,4 +1,4 @@
-# Courses
+## Courses
 
 * 2026 / 2027 : 511180 - Algorithms for Optimization (M.Sc. in Finance, LM-16), University of Pavia, 22 hours. Co-teaching with Prof. Davide Duma. Here is the link to the [Kiro course](https://elearning.unipv.it/course/view.php?id=12556).
 
@@ -7,7 +7,7 @@
 
 
 
-# Theses
+## Theses
 
 I am open to following students in writing their Bachelor's and Master's Thesis. The following is a list of theses I recently supervised.
 
@@ -27,7 +27,7 @@ Some thesis proposals:
 
 
 
-# Teaching assistant / Tutoring
+## Teaching assistant / Tutoring
 
 * Geometria e Algebra for the Bachelor's course in Bioengineering (held by Prof. Francesco Bonsante), University of Pavia, academic year 2021/2022, for a total of 40 hours.
 * Tutoring for first-year students of the Bachelor's degree program in Mathematics, University of Pavia, academic year 2021/2022, for a total of 40 hours.
