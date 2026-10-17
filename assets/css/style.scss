@@ -142,6 +142,25 @@ body {
   a {
     text-decoration: underline;
   }
+
+  // Lists without bullets, spaced like the publications entries
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  ul > li + li {
+    margin-top: 1rem;
+  }
+
+  // Tight, indented list (e.g. thesis proposals)
+  ul.compact {
+    padding-left: 1.5rem;
+
+    > li + li {
+      margin-top: 0;
+    }
+  }
 }
 
 
@@ -179,6 +198,10 @@ pre {
 
   td {
     vertical-align: top;
+  }
+
+  ul > li + li {
+    margin-top: 0.5rem;
   }
 
   td.year {
@@ -338,7 +361,7 @@ html.dark pre {
 
 .main-content .entry-title {
   color: $section-headings-color;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0;
 }
 
 html.dark .main-content .entry-title {

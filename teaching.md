@@ -24,6 +24,7 @@ Some thesis proposals:
 * [*Coloring Semilattices*](https://ambrogiomb.github.io/files/proposals/thesis-semilattices.pdf).
 * [*Generalizing Conway's Game of Life on Graphs*](https://ambrogiomb.github.io/files/proposals/thesis-gameoflife.pdf).
 * [*Stochastic Optimal Bidding*](https://ambrogiomb.github.io/files/proposals/thesis-bidding.pdf).
+{: .compact}
 
 
 
