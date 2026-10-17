@@ -54,32 +54,26 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 
 ## As organizer
 
-**COMPMAT Spring Workshop**
-{: .entry-title}
+**COMPMAT Spring Workshop**{: .entry-title}  
 I was one of the organizers of the [COMPMAT Spring Workshop 2025](https://sites.google.com/universitadipavia.it/icam-compmat2025/compmat/home-page), that was held at University of Pavia on May 23, 2025.
 
-**AIRO Young Workshop**
-{: .entry-title}
+**AIRO Young Workshop**{: .entry-title}  
 I was part of the organizing committee of the [9th AIROYoung Workshop](https://mate.unipv.it/ayw2025/), that was held at University of Pavia from the 26th to the 28th of February, 2025.
 
-**Caffè Beltrami**
-{: .entry-title}
+**Caffè Beltrami**{: .entry-title}  
 I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebeltrami/), a cycle of seminars aimed at introducing different areas of research in mathematics to Bachelor's and Master's students.
 
 
 
 ## Visiting periods
 
-**Princeton University**
-{: .entry-title}
+**Princeton University**{: .entry-title}  
 From September to December 2026, I will be a Visiting Postdoctoral Research Associate in the [Department of Operations Research & Financial Engineering](https://orfe.princeton.edu/) at Princeton University, Princeton, New Jersey, visiting Professor Bartolomeo Stellato's research group.
 
-**USI**
-{: .entry-title}
+**USI**{: .entry-title}  
 I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
 
-**TU Delft**
-{: .entry-title}
+**TU Delft**{: .entry-title}  
 I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
 
 
