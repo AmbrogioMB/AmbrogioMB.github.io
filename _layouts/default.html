@@ -11,9 +11,12 @@
     <meta name="theme-color" content="#156b6b">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
     {% include head-custom.html %}
     <script>
-      if (localStorage.getItem('theme') === 'dark') {
+      // Saved choice wins; otherwise follow the system setting
+      var savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
         document.documentElement.classList.add('dark');
       }
     </script>
@@ -41,10 +44,9 @@
     <nav class="site-nav">
       <ul>
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/publications.html' | relative_url }}">Publications</a></li>
-        <li><a href="{{ '/conferences.html' | relative_url }}">Talks &amp; Activities</a></li>
-        <li><a href="{{ '/teaching.html' | relative_url }}">Teaching</a></li>
-	<li><a href="{{ '/misc.html' | relative_url }}">Miscelannea</a></li>
+        <li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
+        <li><a href="{{ '/conferences' | relative_url }}">Talks &amp; Activities</a></li>
+        <li><a href="{{ '/teaching' | relative_url }}">Teaching</a></li>
       </ul>
     </nav>
 
@@ -52,6 +54,21 @@
       {{ content }}
 
       <footer class="site-footer">
+        <div class="footer-contacts">
+          <div class="footer-links">
+            <a id="email-link" href="#" aria-label="Email">
+              <svg class="mail-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v14H3z M3 5l9 7 9-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+              <span id="email-text">ambrogiomaria.bernardelli (at) unipv.it</span>
+            </a>
+            <a href="https://scholar.google.com/citations?user=sRNOuHIAAAAJ"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+            <a href="https://orcid.org/0000-0002-2328-7062"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a>
+          </div>
+          <div class="footer-address">
+            <a href="https://matematica.unipv.it/">Department of Mathematics "F. Casorati"</a>,
+            <a href="https://www.unipv.eu/">University of Pavia</a>,
+            via Ferrata 5, 27100 Pavia, Italy
+          </div>
+        </div>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">
             <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
@@ -64,8 +81,20 @@
         <script>
           document.getElementById("year").textContent = new Date().getFullYear();
           (function() {
+            // Assemble the address at runtime so it never appears in the HTML source
+            var addr = ['ambrogiomaria.bernardelli', 'unipv.it'].join('@');
+            document.getElementById('email-link').href = 'mailto:' + addr;
+            document.getElementById('email-text').textContent = addr;
+          })();
+          (function() {
             var btn = document.getElementById('theme-toggle');
-            if (localStorage.getItem('theme') === 'dark') btn.textContent = '◐';
+            var root = document.documentElement;
+            if (root.classList.contains('dark')) btn.textContent = '◐';
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+              if (localStorage.getItem('theme')) return;
+              root.classList.toggle('dark', e.matches);
+              btn.textContent = e.matches ? '◐' : '◑';
+            });
             btn.addEventListener('click', function() {
               var isDark = document.documentElement.classList.toggle('dark');
               localStorage.setItem('theme', isDark ? 'dark' : 'light');

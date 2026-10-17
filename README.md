@@ -20,16 +20,4 @@ My research interests include (but are not limited to) integer programming, comp
 * integrality gap problems;
 * stochastic optimal bidding in energy markets.
 
-
-
-# Contacts
-
-ambrogiomaria.bernardelli (at) unipv.it
-
-[Google Scholar](https://scholar.google.com/citations?user=sRNOuHIAAAAJ)
-
-[ORCID 0000-0002-2328-7062](https://orcid.org/0000-0002-2328-7062)
-
-[Department of Mathematics "F. Casorati"](https://matematica.unipv.it/), [University of Pavia](https://www.unipv.eu/), via Ferrata 5, Pavia 27100, Italy.
-
 <!--- research group twitter: [@ComptOpt](https://x.com/comp_opt) --->

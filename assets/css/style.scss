@@ -164,6 +164,51 @@ pre {
 
 
 // =====================================================
+// Footer contacts
+// =====================================================
+
+.footer-contacts {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+
+  a {
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.4rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .ai {
+    font-size: 1.15em;
+  }
+
+  .mail-icon {
+    width: 1.05em;
+    height: 1.05em;
+  }
+}
+
+.footer-address {
+  color: $blockquote-text-color;
+  margin-top: 0.2rem;
+}
+
+
+// =====================================================
 // Theme toggle (fixed top-right)
 // =====================================================
 
@@ -192,7 +237,11 @@ pre {
 // =====================================================
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
 }
 
 html.dark body {
@@ -235,6 +284,10 @@ html.dark .main-content h6 {
 
 html.dark .main-content a {
   color: #8adab8;
+}
+
+html.dark .footer-address {
+  color: #6a9898;
 }
 
 html.dark blockquote {
