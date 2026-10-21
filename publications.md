@@ -41,10 +41,10 @@ arXiv preprint arXiv:2405.13773. Currently under revision at *Networks*.
 ## Theses
 
 [Methods for Combinatorial Optimization and Their Applications](https://ambrogiomb.github.io/files/thesis/phd_thesis.pdf).  
-Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia and Università della Svizzera italiana (joint program), 2025.
+Ph.D. Thesis in Computational Mathematics and Decision Sciences. University of Pavia and Università della Svizzera italiana (joint program), February 20, 2025.
 
 [Aspetti Algebrici e Combinatori della Teoria degli Operad](https://ambrogiomb.github.io/files/thesis/tesi_m.pdf) (Algebraic and Combinatorial Aspects of Operad Theory).  
-M.Sc. Thesis in Mathematics. University of Pavia, 2021.
+M.Sc. Thesis in Mathematics. University of Pavia, September 23, 2021.
 
 [Rappresentazioni Lineari di Gruppi Finiti](https://ambrogiomb.github.io/files/thesis/tesi.pdf) (Linear Representations of Finite Groups).  
-B.Sc. Thesis in Mathematics. University of Pavia, 2019.
+B.Sc. Thesis in Mathematics. University of Pavia, September 19, 2019.
