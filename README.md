@@ -15,6 +15,6 @@ Postdoctoral Fellow in Operations Research and Optimization at the Department of
 
 ## Research
 
-My research interests include (but are not limited to) integer programming, computational optimization, and stochastic optimization. I am currently working on integrality gap problems and stochastic optimal bidding in energy markets.
+My research interests include (but are not limited to) integer programming, computational optimization, and stochastic and robust optimization. My current work focuses on cutting-plane methods for mixed-integer optimization, solution-driven approaches to decision-making under uncertainty, and optimization of energy systems and electricity markets.
 
 <!--- research group twitter: [@ComptOpt](https://x.com/comp_opt) --->

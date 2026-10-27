@@ -25,7 +25,7 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 ## Preprints
 
 Sacilotto, A., **Bernardelli, A. M.**, Gualandi, S. (2026).  
-[Emission-aware operation of residential PV-battery systems: the role of information structure ](https://arxiv.org/abs/2606.26648).  
+[Emission-aware operation of residential PV-battery systems: the role of information structure](https://arxiv.org/abs/2606.26648).  
 arXiv preprint arXiv:2606.26648. Currently under revision at *Sustainable Energy, Grids and Networks* (SEGAN).
 
 Riccardi, G., **Bernardelli, A. M.**, Gualandi, S. (2026).  
@@ -48,3 +48,4 @@ M.Sc. Thesis in Mathematics. University of Pavia, September 23, 2021.
 
 [Rappresentazioni Lineari di Gruppi Finiti](https://ambrogiomb.github.io/files/thesis/tesi.pdf) (Linear Representations of Finite Groups).  
 B.Sc. Thesis in Mathematics. University of Pavia, September 19, 2019.
+
