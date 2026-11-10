@@ -24,6 +24,10 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 
 ## Preprints
 
+**Bernardelli, A. M.** (2026).  
+[Cryptanalysis of operad-based cryptography](https://arxiv.org/abs/2611.10134).  
+arXiv preprint arXiv:2611.10134. Currently under revision at *Advances in Mathematics of Communications* (AMC).
+
 Sacilotto, A., **Bernardelli, A. M.**, Gualandi, S. (2026).  
 [Emission-aware operation of residential PV-battery systems: the role of information structure](https://arxiv.org/abs/2606.26648).  
 arXiv preprint arXiv:2606.26648. Currently under revision at *Sustainable Energy, Grids and Networks* (SEGAN).
