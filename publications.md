@@ -4,11 +4,11 @@ Sosso, A., **Bernardelli, A. M.**, Gualandi, S. (2026).
 [The Cloven Traveling Salesman: Cycle Covers and the Integrality Gap of Small ATSP Instances](https://link.springer.com/article/10.1007/s11590-026-02312-x).  
 Optimization Letters. [arXiv](https://arxiv.org/abs/2511.05045).
 
-**Bernardelli, A. M.**, Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2024).  
-[Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Network](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281).  
+**Bernardelli, A. M.**, Gualandi, S., Milanesi, S., Lau, H. C., Yorke-Smith, N. (2025).  
+[Multiobjective Linear Ensembles for Robust and Sparse Training of Few-Bit Neural Networks](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0281).  
 INFORMS Journal on Computing (INFORMS J. Comput.). [arXiv](https://arxiv.org/abs/2212.03659).
 
-**Bernardelli, A. M.**, Bonasera, L., Duma, D., Vercesi, E. (2024).  
+**Bernardelli, A. M.**, Bonasera, L., Duma, D., Vercesi, E. (2025).  
 [Multi-objective stochastic scheduling of inpatient and outpatient surgeries](https://link.springer.com/article/10.1007/s10696-024-09542-0).  
 Flexible Services and Manufacturing Journal (Flex. Serv. Manuf. J.).
 
@@ -26,19 +26,19 @@ In: Sellmann, M., Tierney, K. (eds) Learning and Intelligent Optimization. LION 
 
 **Bernardelli, A. M.** (2026).  
 [Cryptanalysis of operad-based cryptography](https://arxiv.org/abs/2611.10134).  
-arXiv preprint arXiv:2611.10134. Currently under revision at *Advances in Mathematics of Communications* (AMC).
+arXiv preprint arXiv:2611.10134. Under review at *Advances in Mathematics of Communications*.
 
 Sacilotto, A., **Bernardelli, A. M.**, Gualandi, S. (2026).  
 [Emission-aware operation of residential PV-battery systems: the role of information structure](https://arxiv.org/abs/2606.26648).  
-arXiv preprint arXiv:2606.26648. Currently under revision at *Sustainable Energy, Grids and Networks* (SEGAN).
+arXiv preprint arXiv:2606.26648. Under review at *Sustainable Energy, Grids and Networks*.
 
 Riccardi, G., **Bernardelli, A. M.**, Gualandi, S. (2026).  
 [Theoretical Perspectives on Jabr-Type Convex Relaxations for AC Optimal Power Flow](http://arxiv.org/abs/2604.00664).  
-arXiv preprint arXiv:2604.00664. Currently under revision at *European Journal of Operational Research*.
+arXiv preprint arXiv:2604.00664. Under review as an invited review at *European Journal of Operational Research*.
 
 **Bernardelli, A. M.**, Vercesi, E., Gualandi, S., Mastrolilli, M., Gambardella, L. M. (2024).  
 [Lower bounds for the integrality gap of the bi-directed cut formulation of the Steiner Tree Problem](https://arxiv.org/abs/2405.13773).  
-arXiv preprint arXiv:2405.13773. Currently under revision at *Networks*.
+arXiv preprint arXiv:2405.13773. Under review at *Networks*.
 
 
 

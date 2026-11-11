@@ -1,6 +1,6 @@
 ## Conferences and workshops
 
-Conferences and workshops where my works have been presented.
+Conferences and workshops where my work was presented.
 
 <table class="year-table">
 <tr>
@@ -29,8 +29,8 @@ Conferences and workshops where my works have been presented.
 <tr>
 <td class="year">2023</td>
 <td markdown="1">
-* [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, Arizona<sup>**†**</sup>.
-* [LION17](https://lion17.org/), Nice, France. [Slides](https://ambrogiomb.github.io/files/presentations/23-bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Network* presented here got accepted for the [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
+* [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/) (presented by Stefano Gualandi), Phoenix, AZ, USA<sup>**†**</sup>.
+* [LION17](https://lion17.org/), Nice, France. [Slides](https://ambrogiomb.github.io/files/presentations/23-bnn_nizza.pdf). The work *The BeMi Stardust: a Structured Ensemble of Binarized Neural Networks* presented here was published in the [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_30).
 * [The Mathematics of Machine Learning](http://www.crm.sns.it/event/506/) (presented by Simone Milanesi), Pisa, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/) (presented by Simone Milanesi), Milano, Italy.
 * [7th AIROYoung Workshop](https://ayw2023.di.unimi.it/), Milano, Italy. [Slides](https://ambrogiomb.github.io/files/presentations/23-airo.pdf).
@@ -40,7 +40,7 @@ Conferences and workshops where my works have been presented.
 <td class="year">2022</td>
 <td markdown="1">
 * [Matematica per l'Intelligenza Artificiale e il Machine Learning - Giovani ricercatori](https://areeweb.polito.it/disma-excellence/events_2022/GiornateUMI/index.html), Torino, Italy.
-* [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, Pennsylvania.
+* [ICCOPT / MOPTA 2022](https://iccopt2022.lehigh.edu/), Lehigh University, Bethlehem, PA, USA.
 The work *Scheduling elective surgeries under uncertainty: a multi-objective stochastic approach* presented here got the **second place** out of 13 submissions at the [14th AIMMS-MOPTA Optimization Modeling Competition](https://iccopt2022.lehigh.edu/competition-and-prizes/aimms-mopta-competition/). You can find the certificate [here](https://ambrogiomb.github.io/files/presentations/22-mopta.pdf).
 * YAMC 2022 (video of my talk [here](https://www.youtube.com/watch?v=H0_yxyK-zK4&t=1232s)), Arenzano, Italy. [Slides](https://ambrogiomb.github.io/files/presentations/22-healthcare.pdf) and [video](https://ambrogiomb.github.io/files/presentations/demo_rec.mp4) referenced in slide 27.
 </td>
@@ -48,7 +48,7 @@ The work *Scheduling elective surgeries under uncertainty: a multi-objective sto
 </table>
 
 
-<sup>**†**</sup> invited talk
+<sup>**†**</sup> talk given upon invitation, without submission
 
 
 
@@ -65,15 +65,21 @@ I was a co-organizer of [Caffè Beltrami](https://sites.google.com/view/caffebel
 
 
 
+## Reviewing
+
+Reviewer for *INFORMS Journal on Computing* (2025, 2026), *Journal of Combinatorial Optimization* (2024), *Frontiers in Pediatrics* (2026), *Scientific Reports* (2026).
+
+
+
 ## Visiting periods
 
 **Princeton University**{: .entry-title}  
-From September to December 2026, I will be a Visiting Postdoctoral Research Associate in the [Department of Operations Research & Financial Engineering](https://orfe.princeton.edu/) at Princeton University, Princeton, New Jersey, visiting Professor Bartolomeo Stellato's research group.
+From September to December 2026, I am a Visiting Postdoctoral Research Associate in the [Department of Operations Research & Financial Engineering](https://orfe.princeton.edu/) at Princeton University, Princeton, New Jersey, visiting Professor Bartolomeo Stellato's research group.
 
 **USI**{: .entry-title}  
-I spent six months, from September 2023 to February 2024, in [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
+I spent six months, from September 2023 to February 2024, at [USI](https://www.usi.ch/it), Lugano, Switzerland, as part of my Ph.D. joint program, working on integrality gap problems with Professor Luca Maria Gambardella.
 
 **TU Delft**{: .entry-title}  
-I spent one month, from mid-April to mid-May 2023, in [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
+I spent one month, from mid-April to mid-May 2023, at [TU Delft](https://www.tudelft.nl/), Delft, Netherlands, as a guest of [STAR Lab](https://starlab.ewi.tudelft.nl/), working on AI and optimization with Dr. Neil Yorke-Smith. The funding for my visiting period was provided by [TAILOR](https://tailor-network.eu/) after having been **awarded** a [Connectivity Fund](https://tailor-network.eu/optimal-training-of-a-structured-ensemble-of-binarized-neural-networks-with-mixed-integer-linear-programming-techniques/).
 
 
